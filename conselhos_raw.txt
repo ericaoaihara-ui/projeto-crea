@@ -1,0 +1,3655 @@
+MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+ARQUIVO NACIONAL
+GRUPO DE TRABALHO DOS CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL
+
+CÓDIGO DE CLASSIFICAÇÃO E TABELA DE TEMPORALIDADE E
+DESTINAÇÃO DE DOCUMENTOS DE ARQUIVO RELATIVOS ÀS
+ATIVIDADES – FIM DOS CONSELHOS DE FISCALIZAÇÃO
+PROFISSIONAL
+
+Brasília\DF
+Novembro/2019
+
+Elaboração dos instrumentos de gestão:
+Representantes dos Conselhos Federais e Regionais
+Ananda Spindola Bastos
+Andréa Fernandes Considera
+Dalgiza Andrade de Oliveira
+Daniela Neves de Sousa
+Elismar Pereira Dias
+Gabriel Lucas Gonçalves da Silva
+Janaína de Araújo Nery Bezerra
+Juliane Marafon
+Karla Jaqueline Martins Lima
+Leonardo de Oliveira Cavalcante
+Luzane Ruscher Souto
+Maria Arlinda Franco de Carvalho
+Marília de Abreu Martins de Paiva
+Marina Garcia da Silva Pereira
+Meissane Andressa da Costa Leão
+Sônia F. de Melo de Freitas
+Representantes do Arquivo Nacional
+Camilla Nogueira Cavalcante Pacheco (Coordenadora Técnica)
+Larissa Candida Costa (Coordenadora-Geral)
+Thayron Rodrigues Rangel (Especialista Técnico e Secretário)
+Colaboradora
+Dilma Fátima Avellar Cabral Costa (Supervisora Equipe MAPA/AN)
+CIP – Catalogação na publicação
+A772
+
+Arquivo Nacional (Brasil). Grupo de Trabalho dos Conselhos Profissionais
+Código de Classificação e Tabela de Temporalidade e Destinação de documentos de arquivo relativos
+às atividades – fim dos Conselhos de Fiscalização Profissional / Arquivo Nacional - Brasília: Arquivo
+Nacional, 2019.
+74 p.
+1. Gestão de documentos. 2. Código de Classificação. 3. Documentos-Classificação. 4.
+Documentos-Destinação. 5. Tabela de Temporalidade. 6. Arquivos públicos. I. Arquivo Nacional. II.
+Grupo de Trabalho dos Conselhos Profissionais.
+CDD: 351.714
+Elaborada por: Juliana dos Santos Rocha – CRB-6: 2809
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+AAPF
+
+Anotação de Atividade Profissional do Farmacêutico
+
+AN
+
+Arquivo Nacional
+
+CAU
+
+Conselho de Arquitetura e Urbanismo
+
+CAU/BR
+
+Conselho de Arquitetura e Urbanismo do Brasil
+
+CCD
+
+Código de Classificação de Documentos
+
+CFB
+
+Conselho Federal de Biblioteconomia
+
+CFBio
+
+Conselho Federal de Biologia
+
+CFC
+
+Conselho Federal de Contabilidade
+
+CFESS
+
+Conselho Federal de Serviço Social
+
+CFF
+
+Conselho Federal de Farmácia
+
+CFMV
+
+Conselho Federal de Medicina Veterinária
+
+CFN
+
+Conselho Federal de Nutricionistas
+
+CNAI
+
+Cadastro Nacional de Auditores Independentes
+
+CNPC
+
+Cadastro Nacional de Peritos Contábeis
+
+COFEM
+
+Conselho Federal de Museologia
+
+COGED
+
+Coordenação-Geral de Gestão de Documentos
+
+CONARQ
+
+Conselho Nacional de Arquivos
+
+CONFEA
+
+Conselho Federal de Engenharia e Agronomia
+
+CONTER
+
+Conselho Nacional de Técnicos em Radiologia
+
+COREG
+
+Coordenação-Regional no Distrito Federal
+
+COREN-MG
+
+Conselho Regional de Enfermagem de Minas Gerais
+
+CPAD
+
+Comissões Permanentes de Avaliação de Documentos
+
+CRB6-MG/ES
+
+Conselho Regional de Biblioteconomia da 6ª Região
+
+CREA-PR
+
+Conselho Regional de Engenharia e Agronomia do Paraná
+
+CRFs
+
+Conselhos Regionais de Farmácia
+
+DAP
+
+Declaração de Atividade Profissional
+
+DF
+
+Distrito Federal
+
+GT
+
+Grupo de Trabalho
+
+MAPA
+
+Memória da Administração Pública Brasileira
+
+NBC
+
+Norma Brasileira de Contabilidade
+
+SPER
+
+Processo Eletrônico de Registro
+
+TCDF
+
+Tribunal de Contas do Distrito Federal
+
+TCU
+
+Tribunal de Contas da União
+
+TTD
+
+Tabela de Temporalidade de Documentos
+
+SUMÁRIO
+
+1 INTRODUÇÃO ....................................................................................................................... 6
+2 HISTÓRICO DO GRUPO DE TRABALHO ......................................................................... 8
+3 METODOLOGIA DE ELABORAÇÃO ............................................................................... 10
+4 JUSTIFICATIVA PARA A DEFINIÇÃO DAS CLASSES E SUBCLASSES.................... 13
+5 CÓDIGO DE CLASSIFICAÇÃO DE DOCUMENTOS ...................................................... 15
+6 JUSTIFICATIVA PARA O PRAZO DE GUARDA E DESTINAÇÃO .............................. 28
+7 TABELA DE TEMPORALIDADE E DESTINAÇÃO DOS DOCUMENTOS .................. 49
+REFERÊNCIAS ....................................................................................................................... 58
+GLOSSÁRIO ............................................................................................................................ 60
+ÍNDICE ..................................................................................................................................... 71
+
+1 INTRODUÇÃO
+
+De acordo com § 2º do artigo 216 da Constituição Federal de 1988 e da Lei Federal n.º
+8.159 de 1991, a atividade de gestão de documentos públicos e a proteção especial aos
+documentos arquivísticos é um dever da Administração Pública no Brasil, constituindo-se em
+instrumento de apoio à administração, à cultura, ao desenvolvimento científico e elemento de
+prova e informação.
+A gestão de documentos é o “conjunto de procedimentos e operações técnicas referentes à
+sua produção, tramitação, uso, avaliação e arquivamento em fase corrente e intermediária,
+visando a sua eliminação ou recolhimento para guarda permanente”, conforme o artigo 3º da
+Lei n.º 8.159 de 1991.
+No que tange aos documentos relativos às atividades-fim de uma instituição, conforme a
+Resolução n.º 14 de 2001, do Conselho Nacional de Arquivos, cada órgão deverá estabelecer
+os prazos de guarda e a destinação dos documentos para submissão ao Arquivo Nacional
+(AN) por meio de suas Comissões Permanentes de Avaliação de Documentos (CPAD),
+respeitando-se o artigo 18 do Decreto Federal n.º 4.073 de 2002. A operacionalização das
+funções de Gestão de Documentos de Arquivo, inerentes à classificação e avaliação, se dá por
+meio dos instrumentos Código de Classificação de Documentos (CCD) e a Tabela de
+Temporalidade de Documentos (TTD), respectivamente.
+O artigo 4 do Decreto-Lei n.º 200 de 1967, dispõe que a Administração Federal
+compreende a administração direta e indireta. Dentre o escopo dessa última, temos as
+autarquias. Os sistemas dos Conselhos de Fiscalização Profissional são representados por 29
+Conselhos Federais e seus respectivos Regionais, totalizando 578 autarquias da administração
+indireta, criadas por lei. Esses Conselhos possuem finalidades específicas citadas nos
+normativos de criação de cada sistema, sendo a maioria comuns a todos, tais como: a
+normatização, o registro profissional e de empresas e a fiscalização do exercício profissional,
+garantindo a regulamentação da profissão. É também de competência dos Conselhos servir
+como órgão consultivo ao governo e às instituições públicas e privadas.
+Como nas demais entidades, no decurso do cumprimento de suas funções, os Conselhos
+de Fiscalização Profissional produzem e recebem documentos que refletem as suas atividades
+finalísticas e de suporte. A elaboração destes instrumentos pelo grupo criado pelo Arquivo
+Nacional permitirá aos Conselhos sua aplicação nos conjuntos de documentos finalísticos,
+possibilitando agilidade e segurança na tomada de decisões político-administrativas, a
+6
+
+comprovação de direitos, assegurando a transparência e a preservação da memória desses
+grupos profissionais que compõem os Conselhos.
+
+7
+
+2 HISTÓRICO DO GRUPO DE TRABALHO
+
+Em setembro de 2018, o Conselho Regional de Enfermagem de Minas Gerais (CORENMG) se reuniu com o Arquivo Nacional, no Rio de Janeiro, com a finalidade de criar um
+grupo para elaborar os instrumentos de Gestão de Documentos - CCD e TTD -, relativos às
+atividades-fim dos Conselhos.
+Conforme acordado na reunião, o COREN-MG enviou o Ofício circular n.º 17, de 12 de
+setembro de 2018, para os Conselhos Federais e alguns Conselhos Regionais de Minas
+Gerais, sendo eles: Psicologia, Contabilidade, Biblioteconomia, Engenharia e Agronomia,
+convidando-os para compor o Grupo de Trabalho (GT).
+Em 21 de novembro de 2018, ocorreu a primeira reunião, conduzida pelo Arquivo
+Nacional, com alguns representantes de Conselhos situados em Brasília e regionais, por meio
+de videoconferência, na qual os Conselhos relataram a situação vivenciada em seus arquivos.
+Logo, o Arquivo Nacional criou um grupo para que os instrumentos de gestão documental
+fossem produzidos em conjunto, para a aplicação em todos os Conselhos do país. Dessa
+forma, foi dado início às atividades e estabeleceu-se o cronograma do Grupo de Trabalho
+(GT).
+A Portaria n.º 67 foi editada em 15 de fevereiro de 2019, convocando oficialmente os
+membros participantes do GT, composto por representantes designados pelos Conselhos
+Federais e Regionais e de servidores do Arquivo Nacional.
+As reuniões ocorreram em Brasília, no Distrito Federal (DF), entre novembro de 2018 e
+outubro de 2019, com a participação de empregados e conselheiros de Conselhos de
+Fiscalização Profissional e servidores do Arquivo Nacional, da Coordenação-Geral de Gestão
+de Documentos (COGED) do Rio de Janeiro e da Coordenação-Regional no Distrito Federal
+(COREG).
+Todavia, efetivamente, participaram das reuniões os seguintes órgãos e entidades:
+
+
+Arquivo Nacional (AN)
+
+
+
+Conselho de Arquitetura e Urbanismo do Brasil (CAU/BR)
+
+
+
+Conselho Federal de Biblioteconomia (CFB)
+
+
+
+Conselho Federal de Biologia (CFBio)
+
+
+
+Conselho Federal de Contabilidade (CFC)
+
+
+
+Conselho Federal de Engenharia e Agronomia (CONFEA)
+
+
+
+Conselho Federal de Farmácia (CFF)
+8
+
+
+
+Conselho Federal de Medicina Veterinária (CFMV)
+
+
+
+Conselho Federal de Museologia (COFEM)
+
+
+
+Conselho Federal de Nutricionistas (CFN)
+
+
+
+Conselho Federal de Serviço Social (CFESS)
+
+
+
+Conselho Nacional de Técnicos em Radiologia (CONTER)
+
+
+
+Conselho Regional de Biblioteconomia da 6ª Região (CRB6-MG/ES)
+
+
+
+Conselho Regional de Enfermagem de Minas Gerais (COREN-MG)
+
+
+
+Conselho Regional de Engenharia e Agronomia do Paraná (CREA-PR)
+
+
+
+Fórum dos Conselhos Federais de Profissões Regulamentadas
+
+Na primeira reunião do GT com os representantes dos Conselhos, somente o Conselho
+Federal de Engenharia e Agronomia (CONFEA), o Sistema Conselho Federal de
+Contabilidade Conselhos Regionais de Contabilidade (CFC/CRCs) e o Conselho Regional de
+Enfermagem de Minas Gerais (COREN-MG) informaram possuírem instrumentos de gestão
+de documentos, aprovados em âmbito interno. A representante do COREN-MG informou que,
+quando estava no Conselho Federal de Enfermagem, elaborou os instrumentos para o Sistema
+COFEN e Regionais, os quais foram aprovados em reunião do plenário e enviados ao Arquivo
+Nacional para aprovação.
+Com base nesses instrumentos, se discutiu e aprovou a proposta de elaboração do código
+de classificação e tabela de temporalidade e destinação de documentos relativos às atividades
+finalísticas, para uso comum por todos os Sistemas de Conselhos de Fiscalização Profissional,
+seja no âmbito federal ou regional.
+Os instrumentos elaborados pelo Grupo de Trabalho, ao longo de 2019, foram submetidos
+à consulta pública em todos os Sistemas de Conselhos de Fiscalização Profissional, nos meses
+de setembro e outubro, e, alinhando todas as contribuições, o trabalho foi concluído, conforme
+o objetivo proposto inicialmente.
+Espera-se que os resultados possibilitem aos Conselhos a gestão dos documentos relativos
+às atividades finalísticas, como tarefa essencial e permanente do controle do ciclo de vida dos
+documentos e parte dos seus Programas e Políticas de Gestão de Documentos.
+
+9
+
+3 METODOLOGIA DE ELABORAÇÃO
+
+A elaboração do Código de Classificação de Documentos (CCD) e da Tabela de
+Temporalidade de Documentos (TTD) relativos às atividades-fim dos Conselhos de
+Fiscalização Profissional, contou com as etapas de levantamento da produção documental dos
+Conselhos, mapeamento das macro funções, identificação e estruturação hierárquica
+taxonômica das funções e atividades, elaboração do código de classificação, levantamento das
+fundamentações legais, frequência de uso relativos aos descritores definidos e elaboração da
+TTD.
+Como alguns Conselhos já haviam desenvolvido seus CCD e TTD, com base em estudos
+de suas funções e atividades, tais instrumentos serviram como base para o início da
+elaboração dos instrumentos unificados, relativos aos documentos de atividades-fim de todos
+os Conselhos de Fiscalização Profissional.
+Sob a orientação técnica do Arquivo Nacional, os membros do GT ampliaram os estudos
+de suas atividades-fim, levantando a produção documental, análise das rotinas arquivísticas,
+bem como pesquisas nas normas vigentes. O levantamento da produção documental foi
+realizado pelos próprios representantes do GT em seus respectivos órgãos.
+A classificação seguiu o padrão já utilizado pelo Conselho Nacional de Arquivos
+(CONARQ) na Resolução n.º 14/2001, para a Administração Pública Federal, quanto aos
+documentos relativos às atividades-meio. Dessa forma, a classificação foi estabelecida pela
+divisão por assuntos, seguindo o método de codificação numérica decimal, fazendo-se uso da
+numeração das classes do intervalo de 100 a 400.
+Para elaboração do Código de Classificação de Documentos (CCD) relativo às atividades
+finalísticas dos Conselhos federais e regionais, tomou-se por base a identificação de suas
+funções, subfunções e atividades, a partir da análise de um conjunto de instrumentos legais
+que disciplinam as atribuições normativas e fiscalizadoras do exercício profissional. As
+funções são “reconhecidas, geralmente, como mais estáveis que estruturas, que são
+frequentemente mescladas ou transferidas quando ocorre reestruturação” (CONSELHO
+INTERNACIONAL DE ARQUIVOS, 2008, p. 11), motivo pelo qual se constituem
+ferramentas importantes para a classificação de documentos. O COREN-MG fez um primeiro
+estudo das funções e atividades, conforme as legislações. Posteriormente, a equipe Memória
+da Administração Pública Brasileira (MAPA), subordinada à Coordenação-Geral de Gestão
+de Documentos (COGED), fez o levantamento e análise das funções e atividades
+10
+
+desempenhadas por todas as entidades de fiscalização profissional, representada,
+hierarquicamente, no código de classificação proposto.
+Logo, o MAPA apontou em sua pesquisa as seguintes funções finalísticas dos Conselhos:
+
+
+registro profissional;
+
+
+
+orientar;
+
+
+
+disciplinar;
+
+
+
+normatizar;
+
+
+
+regulamentar;
+
+
+
+fiscalizar.
+
+Assim, o GT construiu o CCD e TTD, que foram estruturados levando-se em
+consideração as particularidades dos Sistemas de Conselhos Federais e Regionais. Os códigos
+numéricos estabelecem a hierarquia entre a classe (macro-função), a subclasse (função), o
+grupo (atividade) e subgrupo (tarefa).
+Posteriormente, procedeu-se à avaliação do fundo referente às atividades-fim dos
+Conselhos. Para a produção da TTD foram estabelecidos prazos de guarda nas fases corrente e
+intermediária, além da destinação final, fundamentados nos critérios da legislação brasileira
+vigente, bem como nos normativos oriundos dos Conselhos. Também se considerou a
+frequência de uso dos documentos, para garantir o cumprimento pleno da função pela qual
+foram criados e refletir o contexto de produção dos documentos.
+As demais normativas seguiram o Manual de “Procedimentos preliminares para a
+elaboração de código de classificação e tabela de temporalidade e destinação de documentos
+de arquivo: atividades-fim”, publicado no site do Arquivo Nacional e deliberações do GT.
+O Código de Classificação e a Tabela de Temporalidade de Documentos aprovados,
+aplicar-se-ão na rotina dos Conselhos, auxiliando nas atividades de transferências ou
+recolhimento ao Arquivo Permanente em cada órgão ou ao Arquivo Nacional, permitindo o
+armazenamento e controle dos documentos por todas as fases do seu ciclo vital, para que os
+arquivos dessas entidades possam cumprir suas funções e finalidades bem como auxiliar os
+gestores e todo o corpo funcional, no exercício de suas atribuições.
+Pelo exposto, para aplicação dos instrumentos de Gestão de Documentos, os Conselhos
+Federais e Regionais deverão:
+
+
+criar as Comissões Permanentes de Avaliação de Documentos (CPAD), conforme
+artigo 18 do Decreto n.º 4073/2002, através de norma interna, caso ainda não
+tenham criado;
+11
+
+
+
+aplicar o Código de Classificação e da Tabela de Temporalidade;
+
+
+
+selecionar os documentos arquivísticos prescritos, aptos à eliminação;
+
+
+
+elaborar as Listagens de Eliminação de Documentos, conforme a Resolução
+CONARQ n.º 40/14, que deverão ser aprovadas pela CPAD e Plenário de cada
+Conselho e, posteriormente, deverão enviar ao Arquivo Nacional, para aprovação;
+
+
+
+elaborar o Edital de Ciência de Eliminação de Documentos, conforme Resolução
+CONARQ n.º 40/14, após a aprovação do Arquivo Nacional, e publicá-lo em
+periódico oficial;
+
+
+
+encaminhar ao Arquivo Nacional, cópia da página da publicação do Edital de
+Ciência de Eliminação de Documentos no periódico ou do veículo de divulgação
+local no qual foi publicado;
+
+
+
+elaborar o Termo de Eliminação de Documentos, posterior à eliminação, devendo
+dar publicidade deste termo em boletim interno ou no portal ou sítio eletrônico;
+
+
+
+encaminhar ao Arquivo Nacional cópia do Termo de Eliminação de Documentos
+para ciência de que a eliminação foi efetivada.
+
+Portanto, organizar os documentos arquivísticos considerando esses instrumentos, a
+legislação arquivística e demais orientações do CONARQ, tornará o trabalho de gestão dos
+acervos arquivísticos dos Conselhos, uma atividade que supera a "técnica", aplicando a
+ciência para o aprimoramento dos sistemas existentes.
+Soma-se a isso a necessidade de tratar os conjuntos documentais dos Conselhos,
+vislumbrando a preservação dos documentos arquivísticos, em seus diversos suportes, para
+fins de prova, informação e como fonte de memória e da historiografia das classes de
+profissionais e instituições, para as possíveis finalidades que se fizerem necessárias ao longo
+do tempo.
+Considera-se o trabalho apresentado um passo em direção à gestão documental
+preconizada pela Lei e sustentada pela teoria arquivística.
+
+12
+
+4 JUSTIFICATIVA PARA A DEFINIÇÃO DAS CLASSES E SUBCLASSES
+
+Com base nesses estudos foi possível a identificação de conjuntos documentais
+produzidos por uma mesma função e atividade, ainda que sejam usadas diferentes
+nomenclaturas. Após esta identificação, os conjuntos documentais foram agrupados
+intelectualmente de acordo com um tema específico. Alguns procedimentos, por vezes, são
+realizados de formas distintas entre os Conselhos, portanto decidiu-se que as classes seriam
+tratadas de forma mais ampla, a fim de abranger os termos, os procedimentos, as atividades e
+funções dos diferentes Conselhos de Fiscalização Profissional existentes.
+As macro funções finalísticas dos Conselhos de Fiscalização Profissional foram assim
+definidas após análise dos regimentos, estatutos, normativas e legislações:
+
+Código
+
+100
+
+200
+
+Função ou Classe
+
+NORMATIZAÇÃO.
+REGULAMENTAÇ
+ÃO. ORIENTAÇÃO
+TÉCNICA
+
+HABILITAÇÃO E
+GESTÃO DO
+EXERCÍCIO
+PROFISSIONAL
+
+Descrição
+Esta classe contempla
+as
+atividades
+relacionadas
+às
+funções
+de
+normatização,
+regulamentação e
+orientação
+técnica
+quanto à organização e
+funcionamento
+dos
+Conselhos
+e
+ao
+exercício
+profissional referentes
+à
+elaboração,
+homologação, revisão,
+atualização
+e
+monitoramento de
+diretrizes, instruções e
+normas.
+Esta classe contempla
+os
+conjuntos
+documentais referentes
+às
+atividades
+de
+registro, controle e
+monitoramento
+do
+profissional e das
+empresas, incluindo a
+emissão de carteiras,
+registro e
+controle
+da
+responsabilidade
+técnica
+de
+profissionais
+e
+empresas, bem como
+da certificação do
+exercício profissional
+e suas alterações.
+
+Subfunções ou
+Subclasses
+
+110 FORMULAÇÃO
+DE NORMAS E
+REGULAMENTOS
+FINALÍSTICOS
+120
+ACOMPANHAMENTO
+DE PROPOSIÇÕES
+LEGAIS,
+INFRALEGAIS E
+POLÍTICAS
+
+210 HABILITAÇÃO
+DO PROFISSIONAL
+220 HABILITAÇÃO DE
+PESSOA JURÍDICA
+230 CONTROLE E
+MONITORAMENTO
+DA HABILITAÇÃO
+PROFISSIONAL
+240 REGISTRO E
+CONTROLE DA
+ATIVIDADE OU
+RESPONSABILIDADE
+TÉCNICA E OBRA
+INTELECTUAL
+
+Principais
+Documentos
+Incluem-se:
+deliberações,
+portarias,
+instruções
+normativas,
+súmulas,
+resoluções,
+decisões
+normativas, ordens
+de
+serviço
+e
+demais
+atos,
+processos
+de
+acompanhamento
+das
+proposições
+legais e
+infralegais.
+
+Incluem-se:
+solicitações
+de
+registro definitivo,
+provisório,
+secundário,
+remido,
+transferido, visto,
+definitivo a partir
+de
+provisório,
+provisório
+por
+transferência
+de
+outro
+Regional,
+reinscrição,
+reinscrição
+por
+transferência,
+renovação
+de
+inscrição
+
+13
+
+250 COMPROVAÇÃO
+DO EXERCÍCIO
+PROFISSIONAL
+
+300
+
+400
+
+FISCALIZAÇÃO
+
+DESENVOLVIME
+NTO E
+VALORIZAÇÃO
+PROFISSIONAL
+
+Esta classe contempla
+o
+conjunto
+de
+documentos referentes
+à
+atividade
+de
+fiscalização periódica
+ou esporádica, de
+infração
+aos
+normativos e/ou ao
+exercício
+ético,
+identificados
+na
+fiscalização,
+internamente de ofício
+ou
+através
+de
+denúncias formuladas
+pela sociedade.
+Esta classe contempla
+o
+conjunto
+de
+documentos referentes
+às
+atividades
+de
+capacitação,
+formação
+e
+valorização
+profissional, educação
+continuada,
+organização
+de
+palestras e cursos
+promovidos
+pelos
+Conselhos
+ou
+realizados por outras
+instituições.
+
+310 VERIFICAÇÃO DE
+CONFORMIDADE
+320 INSTRUÇÃO,
+JULGAMENTO E
+APLICAÇÃO DE
+PENALIDADE
+
+410 PROMOÇÃO DE
+ATIVIDADE DE
+CAPACITAÇÃO
+PROFISSIONAL
+420 APOIO E
+FOMENTO PARA
+DESENVOLVIMENTO
+PROFISSIONAL
+430 AÇÕES DE
+VALORIZAÇÃO
+PROFISSIONAL
+
+provisória,
+transferência para
+outro
+regional,
+conversão
+de
+inscrição
+secundária
+para
+principal,
+inscrição
+por
+cancelamento em
+outro regional e
+registro
+de
+profissionais
+formados em país
+estrangeiro.
+Requerimentos,
+declarações,
+comprovantes,
+recursos e demais
+documentos
+necessários
+para instrução e/ou
+autuação
+de
+processos
+de
+registro
+de
+empresas.
+Incluem-se: planos,
+programas e
+projetos, roteiros,
+cronogramas
+de
+visitas, relatórios
+de atividades, bem
+como documentos
+referentes
+às
+metas, indicadores,
+dados quantitativos
+e
+qualitativos
+de
+inspeções
+e
+avaliação
+de
+fiscais.
+Incluem-se:
+planejamento
+educacional;
+planos, programas
+e
+projetos
+de
+trabalho;
+programação
+anual; relatórios de
+atividades
+referentes
+ao
+planejamento das
+atividades de
+desenvolvimento
+profissional
+e
+educação
+continuada,
+presencial ou à
+distância.
+
+14
+
+5 CÓDIGO DE CLASSIFICAÇÃO DE DOCUMENTOS
+
+100 NORMATIZAÇÃO. REGULAMENTAÇÃO. ORIENTAÇÃO TÉCNICA.
+Esta classe contempla as atividades relacionadas às funções de normatização, regulamentação
+e orientação técnica quanto à organização e funcionamento dos Conselhos e ao exercício
+profissional, referentes à elaboração, homologação, revisão, atualização e monitoramento de
+diretrizes, instruções e normas.
+101 CONSULTAS SOBRE NORMAS E REGULAMENTOS
+Incluem-se
+
+documentos
+
+referentes
+
+a
+
+solicitações
+
+de
+
+informações
+
+e
+
+esclarecimentos sobre normas e regulamentos elaborados ou utilizados pelos
+Conselhos nas suas atividades finalísticas.
+110 FORMULAÇÃO DE NORMAS E REGULAMENTOS FINALÍSTICOS
+Nas subdivisões desse descritor classificam-se os documentos referentes ao processo
+de criação e homologação de atos normativos e ordinatórios, em âmbito nacional ou
+regional, bem como instruções normativas, procedimentos operacionais e decisões de
+caráter geral, relativas às atividades finalísticas dos Conselhos de Fiscalização
+Profissional.
+111 ELABORAÇÃO E REVISÃO DE NORMAS
+Incluem-se documentos referentes aos estudos elaborados pelo corpo técnico
+do Conselho, grupos técnicos de trabalho, comissões, câmaras técnicas, fóruns
+consultivos, jurídicas e audiências públicas para elaboração, monitoramento e
+revisão de normas e regulamentos, tais como: processos ou dossiês de estudos
+técnicos referentes à elaboração e revisão de atos normativos.
+112 APROVAÇÃO E HOMOLOGAÇÃO DE NORMAS
+Incluem-se documentos referentes a normas aprovadas e homologadas nas
+diversas instâncias, relativas aos atos normativos e ordinatórios, tais como:
+deliberações, portarias, instruções normativas, súmulas, resoluções, decisões
+normativas, ordens de serviço e demais atos.
+
+15
+
+120 ACOMPANHAMENTO DE PROPOSIÇÕES LEGAIS, INFRALEGAIS E
+POLÍTICAS
+Nas subdivisões desse descritor classificam-se os documentos referentes às discussões
+políticas relacionadas aos Conselhos, ao acompanhamento e análise de proposições
+legais e infralegais que tramitam nos órgãos dos poderes executivo e legislativo, em
+âmbito federal, estadual, distrital e municipal, relacionados à organização,
+funcionamento, habilitação para o exercício profissional, fiscalização, ética e
+desenvolvimento profissional.
+121
+
+MONITORAMENTO
+
+DAS
+
+PROPOSIÇÕES
+
+LEGAIS
+
+E
+
+INFRALEGAIS
+Incluem-se os documentos referentes ao acompanhamento das proposições
+legais e infralegais que tramitam nos órgãos dos poderes executivo e legislativo
+em âmbito federal, estadual, distrital e municipal, de interesse das classes
+profissionais vinculadas aos Conselhos ou de interesse dos Conselhos
+Profissionais, tais como: processos e dossiês de análise, estudos técnicos,
+pareceres relacionados aos projetos de lei e outras normas.
+122 ARTICULAÇÕES POLÍTICAS
+Incluem-se os documentos referentes ao acompanhamento de reuniões e
+discussões de interesse político dos Conselhos, em âmbito do poder executivo
+ou legislativo, na esfera federal, estadual, distrital e municipal, tais como:
+processos e dossiês contendo abaixo-assinados, listas de presenças em
+audiências públicas, relatórios e atas de reunião.
+
+200 HABILITAÇÃO E GESTÃO DO EXERCÍCIO PROFISSIONAL
+Esta classe contempla os conjuntos documentais referentes às atividades de registro, controle
+e monitoramento do profissional e das empresas, incluindo a emissão de carteiras, registro e
+controle da responsabilidade técnica de profissionais e empresas, bem como da certificação do
+exercício profissional e suas alterações.
+Observação: Para os documentos referentes à fiscalização classificar nas subdivisões da
+classe 300.
+
+16
+
+201 PLANEJAMENTO E AVALIAÇÃO
+Incluem-se os documentos referentes ao planejamento e controle da execução
+da atividade de registro, tais como: planos, programas e projetos, relatórios de
+atividades, bem como documentos referentes às metas, indicadores e dados
+quantitativos de registro.
+202 AUDITORIA DA HABILITAÇÃO
+Incluem-se os documentos referentes à avaliação dos Conselhos Federais sobre
+as ações executadas pelos Conselhos Regionais, no âmbito as atividades de
+registro.
+203 CADASTRAMENTO DE INSTITUIÇÕES DE ENSINO E CURSOS
+Incluem-se os documentos referentes às atividades de cadastramento de
+instituições de ensino e seus respectivos cursos, com a finalidade de reunir
+informações sobre as atribuições, sendo indispensáveis ao processo de registro
+profissional, tais como: ementa dos cursos, diretrizes e disciplinas curriculares,
+requerimento e outras documentações necessárias de acordo com a legislação.
+210 HABILITAÇÃO DO PROFISSIONAL
+Nas subdivisões desse descritor classificam-se os documentos referentes às atividades
+de exame e de gerenciamento do registro para a habilitação do exercício profissional.
+211 EXAME DE EQUALIZAÇÃO E HABILITAÇÃO
+Nas subdivisões desse descritor classificam-se os conjuntos documentais
+referentes ao planejamento, controle, monitoramento, aplicação, avaliação,
+resultados e recursos referentes aos exames de equalização e habilitação para o
+exercício da profissão.
+211.1 PLANEJAMENTO DO EXAME
+Incluem-se os documentos referentes ao planejamento do exame de
+equalização e habilitação, tais como: ato de constituição de comissão de
+acompanhamento
+
+do exame, atos
+
+de constituição de bancas
+
+examinadoras, elaboração de editais, atas de reuniões, listas de
+presença, prestação de contas, exemplares únicos de provas e gabaritos.
+
+17
+
+211.2 APLICACÃO DE PROVA
+Incluem-se os documentos referentes à realização das provas, tais
+como: fichas de inscrição, controle de aplicação, termo de abertura de
+envelope, provas, cadernos e folhas de respostas objetivas e
+dissertativas.
+211.3 RESULTADOS E RECURSOS
+Incluem-se os documentos referentes aos resultados finais do processo
+de equalização e habilitação, tais como: lista de aprovados e
+reprovados, recursos e respostas aos recursos e dados estatísticos.
+212 GERENCIAMENTO DO REGISTRO PROFISSIONAL
+Nas subdivisões desse descritor classificam-se os documentos referentes às
+atividades de solicitação de registro profissional, incluindo todas as suas
+formas, temporárias ou definitivas, e suas alterações, inclusive extensão de
+atribuições e cancelamentos.
+212.1
+
+SOLICITAÇÃO
+
+DE
+
+REGISTRO.
+
+ALTERAÇÃO
+
+CADASTRAL. EXTENSÃO DE ATRIBUIÇÃO.
+Incluem-se os documentos referentes às solicitações de registro
+definitivo, provisório, secundário, remido, transferido, visto, definitivo
+a partir de provisório, provisório por transferência de outro regional,
+reinscrição, reinscrição por transferência, renovação de inscrição
+provisória, transferência para outro regional, conversão de inscrição
+secundária para principal, inscrição por cancelamento em outro regional
+e registro de profissionais formados em país estrangeiro. Incluem-se
+também os documentos relativos a qualquer alteração no cadastro do
+profissional como endereço, nome, extensão de atribuição, averbação
+de
+
+diplomas,
+
+capacitações,
+
+habilitações,
+
+registro
+
+de
+
+auditores
+
+independentes e peritos, entre outros.
+212.2 VERIFICAÇÃO DE PARTICIPAÇÃO EM ATIVIDADES
+DE DESENVOLVIMENTO PROFISSIONAL E EDUCAÇÃO
+CONTINUADA
+Incluem-se os documentos referentes à comprovação de participação do
+18
+
+profissional registrado em atividades, programas e cursos de
+desenvolvimento profissional e de educação continuada tais como
+relatório de atividades, certidão de regularidade, recursos e demais
+documentos comprobatórios.
+212.3 CANCELAMENTOS TEMPORÁRIO OU DEFINITIVO DE
+REGISTRO
+Incluem-se os documentos referentes à baixa, suspensão, interrupção ou
+cancelamento de registro de profissional, de forma definitiva ou
+temporária, por solicitação do profissional ou por ação interna do
+Conselho, tais como: requerimentos, recursos, certidão de óbito e
+demais documentos necessários para instrução e/ou autuação de
+processos de cancelamento de registro profissional.
+220 HABILITAÇÃO DE PESSOA JURÍDICA
+Nas subdivisões desse descritor classificam-se os documentos referentes às atividades
+de gerenciamento do registro de pessoas jurídicas, incluindo sua solicitação de registro
+e todas as alterações cadastrais, tanto de matriz como de filial, bem como registro
+definitivo ou temporário.
+221 GERENCIAMENTO DE REGISTRO DE PESSOA JURÍDICA
+Nas subdivisões desse descritor classificam-se os documentos referentes à
+solicitação e cancelamento de registro de pessoas jurídicas, bem como suas
+alterações.
+221.1
+
+SOLICITAÇÃO
+
+DE
+
+REGISTRO.
+
+ALTERAÇÕES
+
+CADASTRAIS. ALTERAÇÃO DE ATIVIDADES.
+Incluem-se os documentos referentes à solicitação do registro de matriz
+ou filial, reativação de registro, registro em caráter precário e visto, bem
+como de alteração de quaisquer dados cadastrais, incluindo alteração de
+atividades da empresa e responsável técnico, tais como: requerimentos,
+declarações, comprovantes, recursos e demais documentos necessários
+para instrução e/ou autuação de processos de registro de empresas.
+
+19
+
+221.2 CANCELAMENTO TEMPORÁRIO OU DEFINITIVO DE
+REGISTRO
+Incluem-se os documentos referentes à suspensão ou cancelamento do
+registro da pessoa jurídica, por solicitação ou por ação interna do
+Conselho, tais como: requerimentos, recursos e demais documentos
+necessários para instrução e/ou autuação de processos de cancelamento
+de registro de pessoa jurídica.
+230
+
+CONTROLE
+
+E
+
+MONITORAMENTO
+
+DA
+
+HABILITAÇÃO
+
+PROFISSIONAL
+Nas subdivisões desse descritor classificam-se os documentos referentes às atividades
+de gestão do cadastro, compreendendo as atividades de monitoramento e análise do
+cadastro, bem como documentos relativos ao controle e expedição dos documentos de
+identificação profissional (carteiras profissionais).
+231 GESTÃO DO CADASTRO NACIONAL E REGIONAL
+Incluem-se os documentos referentes às atividades de controle, monitoramento
+e análise dos cadastros, bem como os documentos resultantes dessa gestão, tais
+como: livros de registros e bases de dados.
+232
+
+EXPEDIÇÃO
+
+E
+
+CONTROLE
+
+DE
+
+DOCUMENTOS
+
+DE
+
+IDENTIFICAÇÃO PROFISSIONAL
+Incluem-se os documentos referentes às atividades de expedição e controle do
+documento de identificação profissional ou carteiras profissionais, tais como:
+as solicitações de expedição do documento, ou 2ª via, e a própria carteira
+profissional quando devolvida em função do seu vencimento, rasura ou
+cancelamento do registro profissional.
+240 REGISTRO E CONTROLE DA ATIVIDADE OU RESPONSABILIDADE
+TÉCNICA E OBRA INTELECTUAL
+Nas subdivisões desse descritor classificam-se documentos referentes ao registro da
+atividade ou responsabilidade técnica de profissionais e empresas e sua regularização,
+os registros dos afastamentos temporários ou definitivos da responsabilidade técnica, a
+baixa de responsabilidade técnica em relação à atividade registrada e também os
+documentos relativos ao registro de obra intelectual.
+20
+
+241 SOLICITAÇÃO E EMISSÃO DE RESPONSABILIDADE OU
+ATIVIDADE TÉCNICA
+Incluem-se os documentos referentes à solicitação, emissão, disponibilização,
+registro, controle e recursos sobre a responsabilidade e assistência técnica,
+incluindo renovação e emissão de 2ª via, bem como o registro da substituição
+temporária de responsabilidade e assistência técnica. Incluem-se também os
+documentos referentes ao registro da atividade técnica pelo profissional e aos
+processos de regularização desse registro.
+242 AFASTAMENTO TEMPORÁRIO
+Incluem-se documentos referentes à solicitação, disponibilização, registro e
+recursos sobre comunicação de afastamento temporário do profissional como
+responsável ou assistente técnico.
+243 DESLIGAMENTO E BAIXA DE RESPONSABILIDADE TÉCNICA
+Nas subdivisões desse descritor classificam-se os documentos referentes à
+solicitação de baixa da responsabilidade técnica pela empresa ou pela
+atividade, bem como os documentos de solicitação de cancelamento ou
+nulidade da anotação de responsabilidade técnica.
+243.1 SOLICITAÇÃO DE BAIXA
+Incluem-se os documentos referentes às solicitações de baixa de
+responsabilidade ou atividade técnica pelo profissional, pela empresa,
+pelos contratantes ou por vencimento de prazo. Incluem-se ainda as
+solicitações de baixa de anotação de responsabilidade técnica
+registradas pelo profissional, em função do serviço concluído, não
+concluído ou paralisado.
+243.2 SOLICITAÇÃO DE CANCELAMENTO. NULIDADE.
+Incluem-se os documentos relativos às solicitações de cancelamento do
+registro de responsabilidade ou atividade técnica pelo profissional ou
+pela empresa, bem como os processos de nulidade de anotação ou
+registro de responsabilidade técnica gerados pelo Conselho.
+
+21
+
+243.3 AVERIGUAÇÃO DA CONCLUSÃO DO SERVIÇO
+Incluem-se os documentos referentes à verificação das baixas de
+responsabilidade técnica de serviços concluídos.
+244 REGISTRO DE OBRA INTELECTUAL
+Incluem-se os documentos referentes ao registro de obra intelectual solicitados
+por profissionais e por pessoas jurídicas.
+250 COMPROVAÇÃO DO EXERCÍCIO PROFISSIONAL
+Nas subdivisões desse descritor classificam-se os documentos referentes à solicitação
+do acervo técnico profissional, da solicitação de incorporação de atividades
+desenvolvidas no exterior ao acervo do profissional, bem como dos documentos
+relacionados ao processo de cancelamento do acervo técnico profissional.
+251 SOLICITAÇÃO DE ACERVO TÉCNICO
+Incluem-se os documentos referentes à solicitação do acervo técnico das obras,
+atividades e serviços registrados pelo profissional.
+252 INCORPORAÇÃO DE ATIVIDADES DESENVOLVIDAS NO
+EXTERIOR
+Incluem-se os documentos referentes aos processos de solicitação de inclusão
+ao acervo técnico de obras, atividades e prestações de serviço desenvolvidas no
+exterior.
+253 CANCELAMENTO
+Incluem-se os documentos referentes à apuração de irregularidades na
+concessão do acervo técnico, por denúncia ou ato de ofício.
+300 FISCALIZAÇÃO
+Esta classe contempla o conjunto de documentos referentes à atividade de fiscalização
+periódica ou esporádica, de infração aos normativos e/ou ao exercício ético, identificados na
+fiscalização, internamente de ofício ou através de denúncias formuladas pela sociedade.
+301 PLANEJAMENTO E AVALIAÇÃO
+Incluem-se os documentos referentes ao planejamento e controle da
+execução da atividade de fiscalização, tais como: planos, programas e
+projetos, roteiros, cronogramas de visitas, relatórios de atividades, bem
+
+22
+
+como documentos referentes às metas, indicadores, dados quantitativos e
+qualitativos de inspeções e avaliação de fiscais.
+302 AUDITORIA DA FISCALIZAÇÃO
+Incluem-se os documentos referentes à avaliação dos Conselhos Federais
+sobre as ações executadas pelos Conselhos Regionais, no âmbito as
+atividades de fiscalização.
+310 VERIFICAÇÃO DE CONFORMIDADE
+Nas subdivisões desse descritor classificam-se os documentos produzidos na inspeção
+periódica, esporádica ou para apuração de denúncias, gerando processos por infração
+às normas sobre ética profissional ou descumprimento de demais dispositivos legais,
+bem como documentos que não geraram processos por identificação de situação
+regular.
+311 INSPEÇÃO PERIÓDICA
+Incluem-se os documentos referentes ao procedimento fiscalizatório,
+originados da inspeção periódica ou esporádica, seja por descumprimento das
+normas sobre ética profissional ou por infração aos demais dispositivos legais,
+bem como documentos referentes à identificação de situação regular, tais
+como: processo ou dossiês de fiscalização, termo de inspeção, termo de
+ciência, notificação, auto de infração, termo de intimação e orientação
+profissional.
+312 APURAÇÃO DE DENÚNCIA
+Incluem-se os documentos referentes à formalização da denúncia pelo
+interessado e seus desdobramentos internos, incluindo a verificação de
+admissibilidade, tratamento, orientação e encaminhamento da denúncia, tais
+como: solicitação de apuração, termo de inspeção, termo de ciência,
+notificação, auto de infração, termo de intimação, correspondências de
+encaminhamento de denúncia para outros órgãos, e resposta ao denunciante.
+320 INSTRUÇÃO, JULGAMENTO E APLICAÇÃO DE PENALIDADE
+Nas subdivisões desse descritor classificam-se os documentos produzidos referentes
+aos processos de instrução, julgamento e aplicação de penalidades provenientes do
+23
+
+descumprimento das normas sobre ética profissional e/ou outros dispositivos legais no
+âmbito dos Conselhos Regionais e Federais.
+321 DESCUMPRIMENTO ÀS NORMAS ÉTICAS
+Incluem-se os documentos referentes às atividades de instrução, julgamento,
+apreciação de recursos e aplicação de penalidades provenientes do
+descumprimento das normas sobre ética profissional no âmbito dos Conselhos
+Regionais e Federais.
+322 DESCUMPRIMENTO DE OUTROS DISPOSITIVOS LEGAIS
+Incluem-se os documentos referentes às atividades de instrução, julgamento,
+apreciação de recursos e aplicação de penalidades provenientes do
+descumprimento de outros dispositivos legais no âmbito dos Conselhos
+Regionais e Federais.
+
+400 DESENVOLVIMENTO E VALORIZAÇÃO PROFISSIONAL
+Esta classe contempla o conjunto de documentos referentes às atividades de capacitação,
+formação e valorização profissional, educação continuada, organização de palestras e cursos
+promovidos pelos Conselhos ou realizados por outras instituições.
+401 PLANEJAMENTO E AVALIAÇÃO ANUAL
+Incluem-se os documentos referentes ao planejamento das atividades de
+desenvolvimento profissional e educação continuada, presencial ou à distância,
+realizadas pelos Conselhos ou em parceria com outras instituições, tais como:
+planejamento educacional, planos, programas e projetos de trabalho,
+programação anual e relatórios de atividades.
+402 AUDITORIA DE DESENVOLVIMENTO E VALORIZAÇÃO
+PROFISSIONAL
+Incluem-se os documentos referentes à avaliação dos Conselhos Federais sobre
+as ações executadas pelos Conselhos Regionais, no âmbito as atividades de
+desenvolvimento e valorização profissional.
+
+24
+
+403 CREDENCIAMENTOS DE PROFISSIONAIS E INSTITUIÇÕES
+Incluem-se os documentos referentes às atividades de inclusão e cadastramento
+de profissionais, instrutores, palestrantes e instituições, disponíveis para
+capacitação, palestras e treinamentos, inclusive atualizações do cadastro.
+410 PROMOÇÃO DE ATIVIDADE DE CAPACITAÇÃO PROFISSIONAL
+Nas subdivisões deste descritor classificam-se os documentos referentes às atividades
+de organização, execução e avaliação de atividades de capacitação profissional
+promovidos diretamente pelo Conselho Profissional.
+411 ORGANIZAÇÃO. AVALIAÇÃO
+Incluem-se os documentos referentes ao planejamento e avaliação de cursos,
+seminários, fóruns, palestras, simpósios, mesas redondas, congressos,
+encontros e oficinas, entre outras atividades de capacitação profissional, tais
+como: programação, processo de seleção do profissional qualificado para os
+temas das capacitações, solicitação de pagamento do profissional, os
+encaminhamentos para autorização do plenário, lista de presença, exemplar
+único de material de divulgação, apresentações, prestação de contas, modelo do
+certificado, controle de expedição de certificado, relatório de avaliação e dados
+estatísticos.
+412 EXECUÇÃO
+Incluem-se os documentos relativos à execução de cursos, seminários, fóruns,
+palestras, simpósios, mesas redondas, congressos, encontros e oficinas, entre
+outras atividades de capacitação profissional realizadas pelo Conselho, tais
+como: fichas de inscrição, material de identificação e divulgação, e certificados
+não entregues.
+420 APOIO E FOMENTO PARA DESENVOLVIMENTO PROFISSIONAL
+Nas subdivisões deste descritor classificam-se os documentos referentes às atividades
+de aprovação, credenciamento e apoio financeiro e institucional de cursos e eventos
+relativos ao desenvolvimento profissional.
+
+25
+
+421 CADASTRAMENTO E APOIO DE CURSOS DE QUALIFICAÇÃO
+PROFISSIONAL
+Incluem-se os documentos referentes às atividades de cadastramento e apoio
+financeiro ou institucional para instituições de ensino para realização dos
+cursos stricto sensu ou lato sensu, tais como: processos de solicitação de
+credenciamento, propostas, recursos, prestação de contas, programas
+acadêmicos, lista de participantes/beneficiários, diretrizes curriculares.
+422 APOIO A CURSOS E EVENTOS DE DESENVOLVIMENTO
+PROFISSIONAL
+Incluem-se os documentos referentes às solicitações e atividades de apoio
+financeiro ou institucional para realização dos cursos, treinamentos,
+capacitações e eventos de desenvolvimento do profissional ou estudante, tais
+como: processos de solicitação de apoio, propostas, recursos e prestação de
+contas.
+423 APOIO À PRODUÇÃO TÉCNICO-CIENTÍFICA DA PROFISSÃO
+REGULAMENTADA
+Incluem-se os documentos referentes às atividades de apoio e incentivo à
+produção técnico-científica da profissão, tais como: processos de solicitação de
+apoio, propostas, recursos e prestação de contas. Inclui-se também o resultado
+apresentado pelo profissional ou entidade.
+430 AÇÕES DE VALORIZAÇÃO PROFISSIONAL
+Nas subdivisões deste descritor classificam-se os documentos relativos às ações de
+valorização profissional, tais como: campanhas publicitárias, datas comemorativas das
+profissões e solenidades.
+431 REALIZAÇÃO DE CAMPANHAS INSTITUCIONAIS
+Incluem-se os documentos referentes à elaboração de campanhas institucionais
+para promoção, valorização da profissão e datas comemorativas, tais como:
+exemplares únicos de cartazes, folhetos, anúncios, folders e outros documentos
+de divulgação, inclusive em mídias sociais e plataformas digitais.
+
+26
+
+432 PREMIAÇÕES
+Incluem-se os documentos referentes à indicação, análise e seleção de
+agraciados com medalha, placas, troféus e certificados de mérito profissional
+ou acadêmico.
+
+27
+
+6 JUSTIFICATIVA PARA O PRAZO DE GUARDA E DESTINAÇÃO
+
+As justificativas apresentadas a seguir têm como objetivo detalhar os argumentos
+utilizados para definição dos prazos de guarda e destinação de cada conjunto documental
+pertencente a seu código específico. Para o levantamento dos prazos de guarda referentes às
+fases corrente e intermediária e, a destinação de cada conjunto documental, foram pesquisadas
+as normativas apresentadas pelos representantes do GT. Durante a elaboração da TTD foram
+analisadas todas essas diretrizes, além da frequência de uso dada pelo produtor do documento,
+descritor a descritor.
+
+CLASSE 100 - NORMATIZAÇÃO. REGULAMENTAÇÃO. ORIENTAÇÃO
+TÉCNICA
+
+GRUPO 101 - CONSULTAS SOBRE NORMAS E REGULAMENTOS
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Lei n.º 5.194/1966, que regula o exercício das profissões de Engenheiro,
+Arquiteto e Engenheiro-Agrônomo; Resolução n.º 2/2016, que fixa regras e conteúdos para o
+acesso à informação no âmbito do Sistema CONTER/CRTRs; Resolução n.º 1/2019, que
+reformula e dá nova redação ao Regimento Interno do CONTER; Lei n.º 8.662/1993, que
+dispõe sobre a profissão de Assistente Social; Resolução n.º 1.370/2011, Regulamento Geral
+dos Conselhos de Contabilidade; Deliberação de Plenária n.º 1.606/2018, que aprova o
+Regimento Interno do Conselho Regional de Farmácia do Rio Grande do Sul; Resolução n.º
+483/2008, que aprova o regimento interno do Conselho Federal de Farmácia. Estes atos
+normativos dispõem sobre a atribuição do Conselho para dirimir dúvidas relativas à
+competência e âmbito das atividades profissionais, porém, não estabelecem prazos referentes
+a documentos produzidos por esta atividade.
+Foram pesquisados outros dispositivos legais para balizar a definição dos prazos, como a
+Resolução n.º 4.433/2015 do Banco Central do Brasil, que define o prazo de guarda em
+sistema por 05 (cinco) anos de demandas referentes à ouvidoria, atividade semelhante à
+orientação técnica.
+
+28
+
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, foram definidos os prazos de 01 (um) ano na
+guarda corrente e 05 (cinco) anos na guarda intermediária, e eliminação como destinação
+final, por não possuírem valor secundário para a instituição.
+Para os documentos que gerarem novos entendimentos, a destinação final deve ser guarda
+permanente, pela possibilidade de embasar novas decisões sobre a mesma matéria, conforme
+disposto na Resolução n.º 118/2000, que regulamenta o recebimento, controle, movimentação
+e arquivamento de documentos no âmbito do Tribunal de Contas do Distrito Federal (TCDF);
+e na publicação “Criação e desenvolvimento de arquivos públicos municipais: transparência e
+acesso à informação para o exercício da cidadania”, do Conselho Nacional de Arquivos.
+
+SUBCLASSE 110 - FORMULAÇÃO DE NORMAS E REGULAMENTOS
+FINALÍSTICOS
+
+GRUPO 111 - ELABORAÇÃO E REVISÃO DE NORMAS
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Lei n.º 5.194/1966, que regula o exercício das profissões de Engenheiro,
+Arquiteto e Engenheiro-Agrônomo; Resolução n.º 1/2019, que reformula e dá nova redação
+ao Regimento Interno do CONTER; Decreto n.º 92.790/1986, que regulamenta a Lei n.º
+7.394, de 29 de outubro de 1985, que regula o exercício da profissão de Técnico em
+Radiologia; Resolução n.° 104/2015, que dispõe sobre os procedimentos para aprovação dos
+atos administrativos do tipo resolução, deliberação e proposta, de competência do CAU;
+Resolução n.º 1.370/2011, Regulamento Geral dos Conselhos de Contabilidade; Deliberação
+de Plenária n.º 1.606/2018, que aprova o Regimento Interno do Conselho Regional de
+Farmácia do Rio Grande do Sul; Resolução n.º 483/2008, que aprova o regimento interno do
+Conselho Federal de Farmácia. Estes atos normativos dispõem sobre a atribuição do Conselho
+para formular e aprovar normas sobre o exercício profissional e funcionamento da
+organização, porém, não estabelecem prazos referentes a documentos produzidos por esta
+atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+29
+
+corrente até a finalização da norma, com sua aprovação ou não, e na guarda intermediária por
+10 (dez) anos, para eventuais consultas e embasamentos de novos estudos sobre o tema.
+Como destinação final esses documentos devem ser eliminados, visto que a norma aprovada
+será classificada no código 112.
+As atas ou registros de reunião e relatórios finais serão de guarda permanente, como
+documentos recapitulativos para o histórico das tomadas de decisão.
+
+GRUPO 112 - APROVAÇÃO E HOMOLOGAÇÃO DE NORMAS
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Lei n.º 5.194/1966, que regula o exercício das profissões de Engenheiro,
+Arquiteto e Engenheiro-Agrônomo; Decreto n.º 92.790/1986, que regulamenta a Lei n.º
+7.394, de 29 de outubro de 1985, que regula o exercício da profissão de Técnico em
+Radiologia; Resolução n.° 104/2015, que dispõe sobre os procedimentos para aprovação dos
+atos administrativos do tipo resolução, deliberação e proposta, de competência do CAU;
+Resolução n.º 1.370/2011, Regulamento Geral dos Conselhos de Contabilidade; Deliberação
+de Plenária n.º 1.606/2018, que aprova o Regimento Interno do Conselho Regional de
+Farmácia do Rio Grande do Sul; Resolução n.º 483/2008, que aprova o regimento interno do
+Conselho Federal de Farmácia. Estes atos normativos dispõem sobre a atribuição do Conselho
+para formular e aprovar normas sobre o exercício profissional e funcionamento da
+organização, porém, não estabelecem prazos referentes a documentos produzidos por esta
+atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, foram definidos os prazos de 01 (um) ano na
+guarda corrente, para consultas no ano em que a norma foi aprovada, e enquanto a norma
+vigora na guarda intermediária. Após o final da vigência da norma, sua destinação é a guarda
+permanente, por possuir valor secundário para a instituição.
+A publicação “Criação e desenvolvimento de arquivos públicos municipais: transparência
+e acesso à informação para o exercício da cidadania”, do Conselho Nacional de Arquivos,
+reforça o embasamento para a guarda permanente destes documentos.
+
+30
+
+SUBCLASSE 120 - ACOMPANHAMENTO DE PROPOSIÇÕES LEGAIS,
+INFRALEGAIS E POLÍTICAS
+
+GRUPO
+
+121
+
+-
+
+MONITORAMENTO
+
+DAS
+
+PROPOSIÇÕES
+
+LEGAIS
+
+E
+
+INFRALEGAIS
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Resolução n.º 1.015/2006, que aprova o Regimento do Conselho Federal
+de Engenharia e Agronomia – (CONFEA); Resolução n.º 1/2019, que reformula e dá nova
+redação ao Regimento Interno do CONTER; Resolução n.º 139/ 2017, que aprova o
+Regimento Geral do Conselho de Arquitetura e Urbanismo (CAU) e o Regimento Interno do
+CAU/BR; Resolução n.º 1.370/2011, Regulamento Geral dos Conselhos de Contabilidade;
+Deliberação de Plenária n.º 1.606/2018, que aprova o Regimento Interno do Conselho
+Regional de Farmácia do Rio Grande do Sul; Resolução n.º 483/2008, que aprova o regimento
+interno do Conselho Federal de Farmácia. Estes atos normativos dispõem sobre a atribuição
+do Conselho para acompanhamento de propostas relativas ao exercício profissional, porém,
+não estabelecem prazos referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente até o fim da tramitação da proposta do ato normativo nos órgãos dos poderes
+executivo e legislativo, em âmbito federal, estadual, municipal ou distrital; e na guarda
+intermediária por 10 (dez) anos, para eventuais consultas e embasamentos de novos estudos
+sobre o tema. Como destinação final esses documentos devem ser eliminados, por não
+possuírem valor secundário para a instituição e também devido ao fato dos atos normativos
+aprovados serem arquivados permanentemente nos respectivos órgãos que aprovaram o
+referido ato normativo.
+
+GRUPO 122 - ARTICULAÇÕES POLÍTICAS
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Resolução n.º 1.015/2006, que aprova o Regimento do Conselho Federal
+31
+
+de Engenharia e Agronomia – (CONFEA); Resolução n.º 1/2019, que reformula e dá nova
+redação ao Regimento Interno do CONTER; Resolução n.º 139/2017, que aprova o
+Regimento Geral do CAU e o Regimento Interno do CAU/BR; Resolução n.º 1.370/2011,
+Regulamento Geral dos Conselhos de Contabilidade; Deliberação de Plenária n.º 1.606/2018,
+que aprova o Regimento Interno do Conselho Regional de Farmácia do Rio Grande do Sul;
+Resolução n.º 483/2008, que aprova o regimento interno do Conselho Federal de Farmácia.
+Estes atos normativos dispõem sobre a atribuição do Conselho para articulações políticas
+relativas ao exercício profissional, porém, não estabelecem prazos referentes a documentos
+produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 04 (quatro) anos, por ser o maior período de gestão entre os Conselhos e esses
+documentos serem diretamente vinculados com a gestão; e na guarda intermediária por 10
+(dez) anos, para eventuais consultas. Como destinação final esses documentos devem ser
+eliminados, por não possuírem valor secundário para a instituição.
+As atas ou registros de reunião e relatórios finais serão de guarda permanente, como
+documentos recapitulativos para o histórico de articulações políticas realizadas.
+
+CLASSE 200 - HABILITAÇÃO E GESTÃO DO EXERCÍCIO PROFISSIONAL
+
+GRUPO 201 - PLANEJAMENTO E AVALIAÇÃO
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Decreto n.º 92.790/1986, que regulamenta a Lei n.º 7.394, de 29 de
+outubro de 1985, que regula o exercício da profissão de Técnico em Radiologia; Resolução
+n.º 1.370/2011, Regulamento Geral dos Conselhos de Contabilidade. Estes atos normativos
+dispõem sobre a atribuição do Conselho para planejamento e avaliação de ações referentes à
+habilitação e gestão do exercício profissional, porém, não estabelecem prazos referentes a
+documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 04 (quatro) anos, por ser o maior período de gestão entre os Conselhos e esses
+32
+
+documentos serem diretamente vinculados com a gestão; e na guarda intermediária por 10
+(dez) anos, para possível auxílio no embasamento do planejamento de novas ações. Após
+decorridos estes prazos, os documentos deverão ser guardados permanentemente, por
+possuírem valor secundário para a instituição.
+
+GRUPO 202 - AUDITORIA DA HABILITAÇÃO
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes resoluções referentes aos Conselhos participantes do
+GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento Interno do
+CONTER; Resolução n.º 1.458/13, que aprova o Regimento do Conselho Federal de
+Contabilidade. Estes atos normativos dispõem sobre a atribuição do Conselho para auditoria
+da habilitação e gestão do exercício profissional, realizada pelo Conselho Federal nos
+Conselhos Regionais, porém, não estabelecem prazos referentes a documentos produzidos por
+esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 02 (dois) anos, por corresponder ao período de análise da auditoria; e na guarda
+intermediária por 10 (dez) anos, para eventuais consultas. Após decorridos estes prazos, os
+documentos deverão ser guardados permanentemente, por possuírem valor secundário para a
+instituição.
+
+GRUPO 203 - CADASTRAMENTO DE INSTITUIÇÕES DE ENSINO E CURSOS
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes resoluções referentes aos Conselhos participantes do
+GT: Resolução n.º 1.070/2015, que dispõe sobre os procedimentos para registro e revisão de
+registro das instituições de ensino e das entidades de classe de profissionais nos CREAs;
+Resolução CFF n.º 444/2006, que dispõe sobre a regulação de cursos de pós-graduação lato
+sensu de caráter profissional; Resolução n.º 582/13, que dispõe sobre a regulamentação de
+cursos livres para a especialização profissional farmacêutica, sem caráter acadêmico, a serem
+reconhecidos pelo Conselho Federal de Farmácia; Resolução n.º 644/17, que altera o § 2º do
+artigo 7º e o Anexo II da Resolução n.º 582, de 29 de agosto de 2013, que dispõe sobre a
+33
+
+regulamentação de cursos livres para a especialização profissional farmacêutica, sem caráter
+acadêmico, a serem reconhecidos pelo Conselho Federal de Farmácia. Estes atos normativos
+dispõem sobre a atribuição do Conselho para o cadastramento de instituições de ensino e
+cursos, porém, não estabelecem prazos referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente enquanto o curso ou instituição de ensino existir, por haver maior necessidade de
+consulta; e na guarda intermediária por 05 (cinco) anos após a extinção da instituição ou do
+curso ofertado, considerando um prazo de precaução. Como destinação final esses
+documentos devem ser eliminados, por não possuírem valor secundário para a instituição.
+
+SUBCLASSE - 210 HABILITAÇÃO DO PROFISSIONAL
+
+GRUPO 211 - EXAME DE EQUALIZAÇÃO E HABILITAÇÃO
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Norma Brasileira de Contabilidade NBC PA 13(R2)/2015, que dispõe
+sobre Exame de Qualificação Técnica; Norma Brasileira de Contabilidade NBC PP 02, que
+dispõe sobre Exame de Qualificação Técnica para Perito Contábil; e Instrução Normativa
+CVM n.º 591/17. Estes atos normativos dispõem sobre o exame de equalização, porém, não
+estabelecem prazos referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Esse grupo tem como uma das suas subdivisões o planejamento do exame (211.1), que
+tem como prazo de guarda 2 (dois) anos na fase corrente, em função da necessidade de
+consulta referente ao exame anterior, quando da formulação de novo exame, na fase
+intermediária por 5 (cinco) anos, como um prazo precaucional, e como destinação final a
+guarda permanente por possuir valor secundário para a instituição.
+O grupo contempla ainda a subdivisão de aplicação de prova (211.2), definida como
+guarda na fase corrente por 1 (um) ano, na fase intermediária por 4 (quatro) anos, para
+
+34
+
+eventuais consultas, e como destinação final a eliminação por já ter cumprido seu valor
+primário.
+O grupo contempla também a subdivisão sobre os resultados e recursos (211.3), cujos
+documentos classificados tem como guarda na fase corrente 1 (um) ano, na fase intermediária
+50 (cinquenta) anos, considerando a possibilidade de utilização do resultado a qualquer tempo
+para fins de registro, e como destinação final a guarda permanente por possuir valor
+informativo.
+
+GRUPO 212 - GERENCIAMENTO DO REGISTRO PROFISISONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Decreto n.º 92.790/1986, que regulamenta a Lei n.º 7.394, de 29 de
+outubro de 1985, que regula o exercício da profissão de Técnico em Radiologia; Resolução
+n.º 14/2017, que regula e normatiza a inscrição de técnicos e tecnólogos em Radiologia no
+Sistema CONTER/CRTR's; Resolução n.º 582/2010, que regulamenta a Consolidação das
+Resoluções do Conjunto CFESS/CRESS; Resolução n.º 1.423/2013, que dispõe sobre a
+informatização do Sistema de Registro Profissional, Registro Cadastral e suas alterações, da
+tramitação processual e comunicações oficiais, por meio do Sistema de Processo Eletrônico
+de Registro (SPER); Resolução n.º 121/2011, que dispõe sobre a licença, o cancelamento e a
+suspensão de registro de pessoa física e jurídica, perante os Conselhos Regionais de
+Biblioteconomia; Resolução n.º 638/2017, que dispõe sobre a inscrição, o registro, o
+cancelamento, a baixa e a averbação nos Conselhos Regionais de Farmácia (CRFs). Estes atos
+normativos dispõem sobre o registro do profissional, porém, não estabelecem prazos
+referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Esse grupo possui 3 subdivisões. A subdivisão de solicitação de registro, alteração
+cadastral e extensão de atribuição (212.1) foi definida como guarda na fase corrente enquanto
+o registro estiver ativo, uma vez que existe a possibilidade constante de consulta e inclusão de
+novos documentos aos dossiês, na fase intermediária o prazo de guarda é de 15 (quinze) anos,
+em função de possível questionamento jurídico acerca de atribuições concedidas e do próprio
+35
+
+registro, e após esgotados esses prazos os conjuntos documentais podem ser eliminados por já
+terem cumprido sua função administrativa.
+A subdivisão referente à verificação de participação em atividades de desenvolvimento
+profissional e educação continuada (212.2) tem como guarda na fase corrente 2 (dois) anos,
+devido ao período necessário para apuração das participações, na fase intermediária 10 (dez)
+anos, definido como um prazo de precaução para eventuais questionamentos, e como
+destinação final a eliminação por não possuir valor secundário.
+Por fim, a subdivisão 212.3 que se refere aos conjuntos documentais de cancelamento
+temporário ou definitivo de registro permanece com guarda na fase corrente até a conclusão
+do processo, na fase intermediária por 15 (quinze) anos, mesmo tempo definido para os
+conjuntos documentais relativos ao registro e suas alterações, e ficam passíveis de eliminação
+como destinação final, em função de já terem cumprido sua função administrativa.
+Nas subdivisões 212.1 e 212.3 os documentos poderão ser eliminados após 07 anos
+quando se tratar de solicitações indeferidas.
+
+SUBCLASSE 220 - HABILITAÇÃO DE PESSOA JURÍDICA
+
+GRUPO 221 - GERENCIAMENTO DE REGITRO DE PESSOA JURÍDICA
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Resolução n.º 13/2018, que aprova o regulamento de registro e cadastro
+de pessoas jurídicas no Sistema CONTER/CRTRs; Lei n.º 6.839/1980, dispõe sobre o registro
+de empresas nas entidades fiscalizadoras do exercício de profissões; Resolução n.º 582/2010,
+que regulamenta a Consolidação das Resoluções do Conjunto CFESS/CRESS; Resolução n.º
+121/2011, que dispõe sobre a licença, o cancelamento e a suspensão de registro de pessoa
+física e jurídica, perante os Conselhos Regionais de Biblioteconomia; Resolução n.º
+1.423/2013, que dispõe sobre a informatização do Sistema de Registro Profissional, Registro
+Cadastral e suas alterações, da tramitação processual e comunicações oficiais, por meio do
+Sistema de Processo Eletrônico de Registro (SPER); Resolução n.º 1.494/2015, que dispõe
+sobre o registro Profissional de Contadores; Resolução n.º 638/2017, que dispõe sobre a
+inscrição, o registro, o cancelamento, a baixa e a averbação nos Conselhos Regionais de
+
+36
+
+Farmácia. Estes atos normativos dispõem sobre o registro de empresa, porém, não
+estabelecem prazos referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Esse grupo tem como uma das subdivisões a solicitação de registro, alterações cadastrais e
+alterações de atividades (221.1) cujos documentos devem permanecer na fase corrente
+enquanto o registro estiver ativo, na fase intermediária 15 (quinze) anos, em função de
+possível questionamento jurídico acerca do registro e atividades, e após esgotados esses
+prazos os conjuntos documentais podem ser eliminados por já terem cumprido sua função
+administrativa.
+O grupo contempla ainda a subdivisão referente ao cancelamento temporário ou definitivo
+de registro (221.2), que tem como guarda na fase corrente até a conclusão do processo, na fase
+intermediária 15 (quinze) anos, mesmo tempo definido para os conjuntos documentais
+relativos ao registro e suas alterações, e ficam passíveis de eliminação como destinação final,
+em função de já terem cumprido sua função administrativa.
+Nas subdivisões 221.1 e 221.2 os documentos poderão ser eliminados após 07 anos
+quando se tratar de solicitações indeferidas.
+
+SUBCLASSE 230 - CONTROLE E MONITORAMENTO DA HABILITAÇÃO
+PROFISSIONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Resolução n.º 1/2019, que Reformula e dá nova redação ao Regimento
+Interno do CONTER; Resolução n.º 582/2010, que regulamenta a Consolidação das
+Resoluções do Conjunto CFESS/CRESS; Norma Brasileira de Contabilidade (NBC) PP
+01/2015, que dispõe sobre o Perito contábil; Resolução CFC n.º 1.495/2015, que dispõe sobre
+o Cadastro Nacional de Auditores Independentes (CNAI); Instrução Normativa CVM n.º
+308/1999, que dispõe sobre o registro e o exercício da atividade de auditoria independente;
+Resolução n.º 1.502/2016, que dispõe sobre o Cadastro Nacional de Peritos Contábeis
+(CNPC); Resolução n.º 1.494/2015, que dispõe sobre o registro Profissional de Contadores;
+Resolução CFC n.º 1.423/2013, que dispõe sobre a informatização do Sistema de Registro
+37
+
+Profissional, Registro Cadastral e suas alterações, da tramitação processual e comunicações
+oficiais, por meio do Sistema de Processo Eletrônico de Registro (SPER); Decreto n.º
+92.790/1986, que regulamenta a Lei n.º 7.394, de 29 de outubro de 1985, que regula o
+exercício da profissão de Técnico em Radiologia; Resolução CFC n.º 1.472/2014, que dispõe
+sobre a Carteira de Identidade Profissional; Resolução CFC n.º 1.566/2019, que dispõe sobre
+a Carteira de Identidade Profissional; NBC PG 12 (R3) – Educação Profissional Continuada;
+Resolução n.º 483/2008, que aprova o regimento interno do Conselho Federal de Farmácia;
+Deliberação de Plenária n.º 1.606/2018, que aprova o Regimento Interno do Conselho
+Regional de Farmácia do Rio Grande do Sul; Resolução n.º 638/2017, que dispõe sobre a
+inscrição, o registro, o cancelamento, a baixa e a averbação nos Conselhos Regionais de
+Farmácia. Estes atos normativos dispõem sobre controle e monitoramento da habilitação
+profissional, porém, não estabelecem prazos referentes a documentos produzidos por esta
+atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+A subclasse controle e monitoramento da habilitação profissional se subdivide no grupo
+gestão do cadastro nacional (231), cujos documentos devem permanecer na fase corrente
+enquanto o registro estiver ativo e como destinação final ter a guarda permanente. Por se
+tratar de documentos referentes a dados pessoais deve-se observar o prazo estabelecido de 100
+anos, após o cancelamento do registro, de acordo com a Lei n.º 12.527/2011 e direitos
+fundamentais.
+Se subdivide também no grupo expedição e controle de documentos de identificação
+profissional (232), cujos documentos devem permanecer na fase corrente por 01 (um) ano, na
+fase intermediária por 05 (cinco) anos, para eventual comprovação de confecção e entrega da
+carteira, e como destinação final podem ser eliminados, por já terem cumprido sua função
+administrativa.
+As carteiras, cédulas e crachás de identificação profissional não retiradas e/ou vencidas
+podem ser eliminadas após 120 dias. As carteiras de identificação profissional devolvidas
+devido ao cancelamento do registro do profissional serão guardadas e eliminadas de acordo
+com prazo estabelecido no código 212.3. Solicitações de documentos de identificação
+indeferidas podem ser eliminadas após 01 ano.
+
+38
+
+SUBCLASSE
+
+240
+
+-
+
+REGISTRO
+
+E
+
+CONTROLE
+
+DA
+
+ATIVIDADE
+
+OU
+
+RESPONSABILIDADE TÉCNICA E OBRA INTELECTUAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Lei n.º 6.496/77, que institui a "Anotação de Responsabilidade Técnica"
+na prestação de serviços de Engenharia, Arquitetura e Agronomia; autoriza a criação, pelo
+Conselho Federal de Engenharia, Arquitetura e Agronomia (CONFEA), de uma Mútua de
+Assistência Profissional; Resolução n.º 1.025/2009, que dispõe sobre a Anotação de
+Responsabilidade Técnica e o Acervo Técnico Profissional; Lei n.º 7.394/85, que regula o
+Exercício da Profissão de Técnico em Radiologia; Resolução n.º 11/2011, que regula e
+normatiza as atribuições do Supervisor das Aplicações das Técnicas Radiológicas; Decreto n.º
+92.790/1986, que regulamenta a Lei n.º 7.394, de 29 de outubro de 1985, que regula o
+exercício da profissão de Técnico em Radiologia; Resolução n.º 509/2016, que atualiza a
+norma técnica para Anotação de Responsabilidade Técnica pelo Serviço de Enfermagem e
+define as atribuições do enfermeiro Responsável Técnico; Resolução 582/2010, que
+regulamenta a Consolidação das Resoluções do Conjunto CFESS/CRESS; Resolução nº
+792/2017, que institui a Anotação da Responsabilidade Técnica no âmbito do Serviço Social,
+os parâmetros para a atuação do/a assistente social nesta modalidade bem como regula os
+procedimentos para expedição da Certidão respectiva; Resolução n.º 638/2017, que dispõe
+sobre a inscrição, o registro, o cancelamento, a baixa e a averbação nos Conselhos Regionais
+de Farmácia; Resolução n.º 648/2017, que regulamenta o procedimento de fiscalização dos
+Conselhos Regionais de Farmácia; Lei n.º 5.991/1973, que dispõe sobre o Controle Sanitário
+do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos; Resolução n.º
+507/2009, que institui a Anotação de Atividade Profissional do Farmacêutico (AAPF);
+Resolução n.º 577/2013, que dispõe sobre a direção técnica ou responsabilidade técnica de
+empresas ou estabelecimentos que dispensam, comercializam, fornecem e distribuem
+produtos farmacêuticos, cosméticos e produtos para a saúde; Resolução n.º 612/2015, que
+institui a Declaração de Atividade Profissional (DAP); Resolução n.º 596/2014, que dispõe
+sobre o Código de Ética Farmacêutica, o Código de Processo Ético e estabelece as infrações e
+as regras de aplicação das sanções disciplinares. Em alguns destes atos normativos, consta o
+prazo de validade de 12 meses do documento emitido pelo Conselho, que comprova a
+
+39
+
+responsabilidade ou atividade técnica do profissional. Porém, não estabelecem prazos
+referentes à guarda destes documentos.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+O grupo solicitação e emissão de responsabilidade ou atividade técnica (241) tem como
+guarda na fase corrente enquanto o registro de responsabilidade ou atividade técnica estiver
+vigente, já que frequentemente são feitas consultas acerca dessa responsabilidade, na fase
+intermediária por 06 (seis) anos, para eventual comprovação de responsabilidade requerida
+posteriormente, e como destinação final a eliminação, por já ter cumprido sua função
+administrativa.
+Solicitações indeferidas devem ser eliminadas após 01 (um) ano. Em se tratando de
+documentos utilizados para fins de comprovação previdenciária, a guarda intermediária deve
+ser de 52 (cinquenta e dois) anos.
+O grupo afastamento temporário (242) tem seus conjuntos documentais guardados na fase
+corrente por 01 (um) ano, na fase intermediária por 06 (seis) anos, para eventual comprovação
+de período de responsabilidade requerida posteriormente, e como destinação final a
+eliminação, por já ter cumprido sua função administrativa.
+O grupo desligamento e baixa de responsabilidade técnica (243) se subdivide nos
+subgrupos solicitação de baixa (243.1) e solicitação de cancelamento e nulidade (243.2), cujos
+documentos devem permanecer na fase corrente por 01 (um) ano, em função da frequência de
+uso nessa fase, por 06 (seis) anos na fase intermediária, também para eventual comprovação
+de responsabilidade requerida posteriormente, e como destinação final a eliminação, por já ter
+cumprido sua função administrativa. Solicitações indeferidas podem ser eliminadas após 01
+(um) ano.
+Esse grupo também se subdivide no subgrupo averiguação da conclusão do serviço
+(243.3), cujos documentos devem permanecer na fase corrente por 01 (um) ano, na fase
+intermediária por 06 (seis) anos, como prazo precaucional, e como destinação final a guarda
+permanente considerando possuir valor comprobatório da conclusão do serviço.
+Já o grupo registro de obra intelectual (244) tem definido como guarda na fase corrente 01
+(um) ano e como destinação final a guarda permanente. O acesso à obra intelectual atenderá,
+na fase intermediária, a legislação vigente de direito autoral.
+
+40
+
+SUBCLASSE 250 - COMPROVAÇÃO DO EXERCÍCIO PROFISSIONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foi considerada a Resolução CONFEA n.º 1.025/2009, que dispõe sobre a
+Anotação de Responsabilidade Técnica e o Acervo Técnico Profissional, e a frequência de
+uso dos documentos produzidos e recebidos nesta classificação, os mesmos recebem prazos
+de guarda conforme as subdivisões abaixo.
+Essa subclasse se divide nos grupos solicitação de acervo técnico (251) e incorporação de
+atividades desenvolvidas no exterior (252), cujos documentos devem permanecer na fase
+corrente por 01 (um) ano, na fase intermediária por 20 (vinte) anos, para eventual contestação
+de realização dos serviços e esclarecimento em processos judiciais, e tem como destinação
+final a eliminação, por já ter cumprido sua função administrativa.
+Os documentos cujas solicitações forem indeferidas ou se tratarem de acervos técnicos
+sem registro de atestado podem ser eliminados após 03 (três) anos no arquivo intermediário.
+A subclasse 250 se subdivide ainda no grupo cancelamento (253), cujos documentos
+permanecem na fase corrente por 01 (um) ano, na fase intermediária por 05 (cinco) anos, para
+atendimento a eventuais consultas e como destinação final a eliminação, por já ter cumprido
+sua função administrativa. Os cancelamentos que gerarem desdobramentos judiciais devem
+ser mantidos até o trânsito em julgado.
+
+CLASSE 300 - FISCALIZAÇÃO
+
+GRUPO 301 - PLANEJAMENTO E AVALIAÇÃO
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes resoluções referentes aos Conselhos participantes do
+GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento Interno do
+CONTER; Resolução n.° 1.458/2013, que aprova o Regimento do Conselho Federal de
+Contabilidade; Resolução n.° 1.370/2011, que dispõe sobre o Regulamento Geral dos
+Conselhos de Contabilidade; Resolução n.º 648/2017, que regulamenta o procedimento de
+fiscalização dos Conselhos Regionais de Farmácia. Estes atos normativos dispõem sobre a
+atribuição do Conselho para planejamento e avaliação de ações referentes à fiscalização,
+porém, não estabelecem prazos referentes a documentos produzidos por esta atividade.
+41
+
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 04 (quatro) anos, por ser o maior período de gestão entre os Conselhos e esses
+documentos serem diretamente vinculados com a gestão; e na guarda intermediária por 10
+(dez) anos, para possível auxílio no embasamento do planejamento de novas ações. Após
+decorridos estes prazos, os documentos deverão ser guardados permanentemente, por
+possuírem valor secundário para a instituição.
+
+GRUPO 302 - AUDITORIA DA FISCALIZAÇÃO
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes resoluções referentes aos Conselhos participantes do
+GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento Interno do
+CONTER; Resolução n.° 1.458/2013, que aprova o Regimento do Conselho Federal de
+Contabilidade; Resolução n.° 1.370/2011, que dispõe sobre o Regulamento Geral dos
+Conselhos de Contabilidade. Estes atos normativos dispõem sobre a atribuição do Conselho
+para auditoria da fiscalização, realizada pelo Conselho Federal nos Conselhos Regionais,
+porém, não estabelecem prazos referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 02 (dois) anos, por corresponder ao período de análise da auditoria; e na guarda
+intermediária por 10 (dez) anos, para eventuais consultas. Após decorridos estes prazos, os
+documentos deverão ser guardados permanentemente, por possuírem valor secundário para a
+instituição.
+
+SUBCLASSE 310 - VERIFICAÇÃO DE CONFORMIDADE
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Decreto n.º 92.790/1986, que regulamenta a Lei n.º 7.394, de 29 de
+outubro de 1985, que regula o exercício da profissão de Técnico em Radiologia; Resolução
+CFESS n.º 512/2007, que reformula as normas gerais para o exercício da Fiscalização
+Profissional e atualiza a Política Nacional de Fiscalização; Resolução n.º 657/2013, que
+42
+
+institui o Código Processual Disciplinar no âmbito do Conselho Federal e dos Conselhos
+Regionais de Serviço Social; Manual de Fiscalização do CFC; Resolução n.º 648/2017 que
+regulamenta o procedimento de fiscalização dos Conselhos Regionais de Farmácia; Resolução
+n.º 566/2012, que aprova o Regulamento do Processo Administrativo Fiscal dos Conselhos
+Federal e Regionais de Farmácia. Estes atos normativos dispõem sobre a fiscalização, porém,
+não estabelecem prazos referentes a documentos produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Essa subclasse se subdivide nos grupos inspeção periódica (311) e apuração de denúncia
+(312) e devem observar a guarda na fase corrente por 01 (um) ano, na fase intermediária por
+05 (cinco) anos, para eventuais consultas e também em função do prazo de prescrição
+administrativa, e como destinação final a eliminação, considerando se tratar de documentos
+que não geraram processos para julgamento. As inspeções que gerarem desdobramentos
+judiciais devem ser mantidas no arquivo corrente até o trânsito em julgado.
+
+SUBCLASSE
+
+320
+
+-
+
+INSTRUÇÃO,
+
+JULGAMENTO
+
+E
+
+APLICAÇÃO
+
+DE
+
+PENALIDADE
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Decreto n.º 92.790/1986, que regulamenta a Lei n.º 7.394, de 29 de
+outubro de 1985, que regula o exercício da profissão de Técnico em Radiologia; Resolução
+n.º 1/2019, que reformula e dá nova redação ao Regimento Interno do CONTER; Resolução
+n.º 15/2011, que dispõe sobre a reformulação do Código de Ética dos Profissionais das
+Técnicas Radiológicas; Resolução n.º 596/2014, que dispõe sobre o Código de Ética
+Farmacêutica, o Código de Processo Ético e estabelece as infrações e as regras de aplicação
+das sanções disciplinares; Resolução n.º 370/2010, que altera o Código de Processo Ético das
+Autarquias Profissionais de Enfermagem para aperfeiçoar as regras e procedimentos sobre o
+processo ético-profissional que envolvem os profissionais de enfermagem e aprova o Código
+de Processo Ético; Resolução n.º 273/1993, que institui o Código de Ética Profissional dos
+Assistentes Sociais; NBC PG 01/2019, que dispõe sobre Código de Ética Profissional do
+Contador; Resolução n.º 1.309/2010, que aprova o Regulamento de Procedimentos
+43
+
+Processuais dos Conselhos de Contabilidade, que dispõe sobre os processos administrativos
+de fiscalização; Resolução n.º 566/2012, que aprova o Regulamento do Processo
+Administrativo Fiscal dos Conselhos Federal e Regionais de Farmácia. Em alguns destes atos
+normativos, consta o prazo de prescrição de processos em 05 (cinco) anos. Porém, não
+estabelecem prazos referentes à guarda destes documentos, após a prescrição dos mesmos.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Essa subclasse se subdivide no grupo descumprimento às normas éticas (321), cujos
+conjuntos documentais devem permanecer na fase corrente até a conclusão administrativa ou
+trânsito em julgado, na fase intermediária por 20 (vinte) anos, para eventual utilização como
+embasamento de novos processos e possíveis questionamentos, e tem como destinação final a
+guarda permanente, por possuir valor secundário. Os processos julgados e que não geraram
+penalidades podem ser eliminados após o prazo previsto na guarda intermediária.
+Essa subclasse se subdivide ainda no grupo descumprimento de outros dispositivos legais
+(322), cuja destinação final dos documentos é a eliminação, por possuírem somente valor
+primário. Na fase corrente os documentos devem permanecer até a conclusão administrativa
+ou trânsito em julgado e na fase intermediária por 06 (seis) anos, considerando o prazo de
+prescrição administrativa e necessidade de eventuais consultas.
+
+CLASSE 400 - DESENVOLVIMENTO E VALORIZAÇÃO PROFISSIONAL
+
+GRUPO 401 - PLANEJAMENTO E AVALIAÇÃO ANUAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foram consideradas as seguintes resoluções referentes aos Conselhos participantes do
+GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento Interno do
+CONTER; Resolução n.° 1.458/2013, que aprova o regimento do Conselho Federal de
+Contabilidade; Resolução n.° 1.370/2011, que dispõe sobre regulamento geral dos Conselhos
+de Contabilidade. Estes atos normativos dispõem sobre a atribuição do Conselho para
+planejamento e avaliação de ações referentes ao desenvolvimento e valorização profissional,
+porém, não estabelecem prazos referentes a documentos produzidos por esta atividade.
+
+44
+
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 04 (quatro) anos, por ser o maior período de gestão entre os Conselhos e esses
+documentos serem diretamente vinculados com a gestão; e na guarda intermediária por 10
+(dez) anos, para possível auxílio no embasamento do planejamento de novas ações. Após
+decorridos estes prazos, os documentos deverão ser guardados permanentemente, por
+possuírem valor secundário para a instituição.
+
+GRUPO 402 - AUDITORIA DE DESENVOLVIMENTO E VALORIZAÇÃO
+PROFISSIONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foi considerada a Resolução n.° 1.458/2013, que aprova o Regimento do Conselho
+Federal de Contabilidade. Este ato normativo dispõe sobre a atribuição do Conselho para
+auditoria do desenvolvimento e valorização profissional, realizada pelo Conselho Federal nos
+Conselhos Regionais, porém, não estabelecem prazos referentes a documentos produzidos por
+esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos deverão permanecer em guarda
+corrente por 02 (dois) anos, por corresponder ao período de análise da auditoria; e na guarda
+intermediária por 10 (dez) anos, para eventuais consultas. Após decorridos estes prazos, os
+documentos deverão ser guardados permanentemente, por possuírem valor secundário para a
+instituição.
+
+GRUPO 403 - CREDENCIAMENTO DE PROFISSIONAIS E INSTITUIÇÕES
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados neste
+grupo, foi considerada a Resolução n.° 1.458/2013, que aprova o Regimento do Conselho
+Federal de Contabilidade. Este ato normativo dispõe sobre o credenciamento de profissionais
+e instituições, porém, não estabelecem prazos referentes a documentos produzidos por esta
+atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os documentos classificados nesse grupo devem
+45
+
+permanecer na fase corrente até o cancelamento do credenciamento, considerando a frequente
+necessidade de consulta, na fase intermediária por 10 (dez) anos, como prazo precaucional, e
+posteriormente podem ser eliminados, por já terem cumprido sua função administrativa.
+
+SUBCLASSE 410 - PROMOÇÃO DE ATIVIDADE DE CAPACITAÇÃO
+PROFISSIONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes resoluções referentes aos Conselhos participantes
+do GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento Interno do
+CONTER; Resolução n.° 1.458/2013, que aprova o Regimento do Conselho Federal de
+Contabilidade. Estes atos normativos dispõem sobre a promoção de atividade de capacitação
+profissional, porém, não estabelecem prazos referentes a documentos produzidos por esta
+atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Essa subclasse se subdivide no grupo organização e avaliação (411), cujos documentos
+devem permanecer na fase corrente por 02 (dois) anos, em função do período necessário à
+avaliação, na fase intermediária por 10 (dez) anos, para embasamento de novas atividades de
+capacitação profissional, e tem como destinação final a guarda permanente, por possuírem
+valor secundário.
+Se subdivide também no grupo execução (412), cujos documentos permanecem na fase
+corrente por 01 (um) ano, na fase intermediária por mais 01 (um) ano e como destinação final
+a eliminação, considerando possuírem apenas valor primário.
+
+SUBCLASSE 420 - APOIO E FOMENTO PARA DESENVOLVIMENTO
+PROFISSIONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento
+Interno do CONTER; NBC PG 12 (R3), que dispõe sobre Educação Profissional Continuada;
+46
+
+Lei n.º 9.610/1998, que altera, atualiza e consolida a legislação sobre direitos autorais;
+Decreto n.º 9.574/2018, que consolida atos normativos editados pelo poder executivo federal
+que dispõem sobre gestão coletiva de direitos autorais e fonogramas, de que trata a Lei n.º
+9.610/1998; Deliberação de Plenária n.º 1.546/2017, que estabelece critérios para concessão
+de incentivos, por meio de acordo de cooperação com instituições de ensino superior (ou
+fundações a ela vinculadas), para a realização de semana acadêmica dos cursos de farmácia do
+Estado do Rio Grande do Sul. Estes atos normativos dispõem sobre o apoio e fomento para
+desenvolvimento profissional, porém, não estabelecem prazos referentes a documentos
+produzidos por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Essa subclasse se subdivide nos grupos cadastramento e apoio de cursos de qualificação
+profissional (421), apoio a cursos e eventos de desenvolvimento profissional (422) e apoio à
+produção técnico-científica da profissão regulamentada (423), cujos conjuntos documentais
+devem permanecer na fase corrente até a apresentação do Relatório de Gestão ou aprovação
+de contas pelo Tribunal de Contas da União (TCU), na fase intermediária por 05 (cinco) anos
+após aprovação das contas ou 10 (dez) anos após a apresentação do Relatório de Gestão e tem
+como destinação final a eliminação.
+Propostas não aprovadas ou que não envolvam pagamento podem ser eliminadas no prazo
+de 02 (dois) anos. Para os casos de apoio à produção técnico-científica da profissão
+regulamentada que envolvam direitos autorais cumprir a legislação vigente sobre o tema.
+
+SUBCLASSE 430 - AÇÕES DE VALORIZAÇÃO PROFISSIONAL
+
+Para a definição dos prazos de guarda e destinação dos documentos classificados nesta
+subclasse, foram consideradas as seguintes leis e resoluções referentes aos Conselhos
+participantes do GT: Resolução n.º 1/2019, que reformula e dá nova redação ao Regimento
+Interno do CONTER; Resolução n.º 1.486/2015, que regulamenta o Exame de Suficiência
+como requisito para obtenção de Registro Profissional em CRC; NBC PA 13 (R2)/2015, que
+dispõe sobre o Exame de Qualificação Técnica; Resolução n.º 376/2002, que dispõe sobre a
+criação e o regulamento do “Prêmio Jaime Torres de Farmácia”; Deliberação de Plenária n.º
+1.592/2018, que altera o Regulamento do Prêmio Sérgio Lamb; Deliberação de Plenária n.º
+47
+
+1.587/2018, que dispõe sobre alteração do regulamento do “Prêmio Farmacêutica Elfrides Eva
+Scherman Schapoval – CRF/RS”. Estes atos normativos dispõem sobre as ações de
+valorização profissional, porém, não estabelecem prazos referentes a documentos produzidos
+por esta atividade.
+Devido a estes fundamentos e também considerando a frequência de uso dos documentos
+produzidos e recebidos nesta classificação, os mesmos recebem prazos de guarda conforme as
+subdivisões abaixo.
+Esta subclasse se subdivide no grupo realização de campanhas institucionais (431), cujos
+documentos devem permanecer na fase corrente por 01 (um) ano, na fase intermediária por 15
+(quinze) anos, para eventuais consultas e auxílio na elaboração de novas ações, e como
+destinação final devem ser guardados de forma permanente por possuírem valor secundário.
+Se subdivide ainda no grupo premiações (432), cujos documentos têm como destinação
+final a guarda permanente por possuírem valor secundário, devendo permanecer na fase
+corrente por 02 (dois) anos e na fase intermediária por 10 (dez) anos, para consulta e auxílio
+na elaboração de novas premiações.
+
+48
+
+7 TABELA DE TEMPORALIDADE E DESTINAÇÃO DOS DOCUMENTOS
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESTINAÇÃO
+FASE
+FASE
+FINAL
+CORRENTE INTERMEDIÁRIA
+
+DESCRITOR DO CÓDIGO
+
+100
+
+NORMATIZAÇÃO. REGULAMENTAÇÃO. ORIENTAÇÃO TÉCNICA.
+
+101
+
+CONSULTAS
+SOBRE
+REGULAMENTOS
+
+110
+
+FORMULAÇÃO DE NORMAS E REGULAMENTOS FINALÍSTICOS
+
+111
+
+112
+
+120
+
+121
+
+122
+
+NORMAS
+
+E
+
+ELABORAÇÃO E REVISÃO DE NORMAS
+
+APROVAÇÃO
+NORMAS
+
+E
+
+HOMOLOGAÇÃO
+
+DE
+
+01 ano
+
+05 anos
+
+Eliminação
+
+Até a conclusão
+
+10 anos
+
+Eliminação
+
+01 ano
+
+Enquanto Vigora
+
+Guarda Permanente
+
+OBSERVAÇÕES
+
+Para os documentos que geram
+jurisprudência, a destinação final
+deve ser guarda permanente.
+
+As atas ou registros de reunião e
+relatório finais serão de guarda
+permanente.
+
+ACOMPANHAMENTO DE PROPOSIÇÕES LEGAIS, INFRALEGAIS E POLÍTICAS
+
+MONITORAMENTO
+DAS
+LEGAIS E INFRALEGAIS
+ARTICULAÇÕES POLÍTICAS
+
+PROPOSIÇÕES Enquanto tramita
+
+04 anos
+
+10 anos
+
+Eliminação
+
+10 anos
+
+Eliminação
+
+As atas ou registros de reunião e
+relatório finais serão de guarda
+permanente.
+
+49
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+FASE
+FASE
+CORRENTE INTERMEDIÁRIA
+
+DESTINAÇÃO
+FINAL
+
+200
+
+HABILITAÇÃO E GESTÃO DO EXERCÍCIO PROFISSIONAL
+
+201
+
+PLANEJAMENTO E AVALIAÇÃO
+
+04 anos
+
+10 anos
+
+Guarda Permanente
+
+202
+
+AUDITORIA DA HABILITAÇÃO
+
+02 anos
+
+10 anos
+
+Guarda Permanente
+
+203
+
+CADASTRAMENTO DE INSTITUIÇÕES DE Enquanto existir a 05 anos após a extinção
+instituição/curso
+da instituição/curso
+ENSINO E CURSOS
+
+210
+
+HABILITAÇÃO DO PROFISSIONAL
+
+211
+
+EXAME DE EQUALIZAÇÃO E HABILITAÇÃO
+
+211.1
+
+PLANEJAMENTO DO EXAME
+
+02 anos
+
+05 anos
+
+Guarda Permanente
+
+211.2
+
+APLICAÇÃO DE PROVA
+
+01 ano
+
+04 anos
+
+Eliminação
+
+211.3
+
+RESULTADOS E RECURSOS
+
+01 ano
+
+50 anos
+
+Guarda Permanente
+
+212
+
+GERENCIAMENTO DO REGISTRO PROFISSIONAL
+
+212.1
+
+Enquanto o
+SOLICITAÇÃO DE REGISTRO. ALTERAÇÃO
+registro estiver
+CADASTRAL. EXTENSÃO DE ATRIBUIÇÃO
+ativo
+
+15 anos
+
+Eliminação
+
+OBSERVAÇÕES
+
+Eliminação
+
+As solicitações de registro
+indeferidas podem ser eliminadas
+após 07 anos.
+
+50
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+212.2
+
+212.3
+
+DESCRITOR DO CÓDIGO
+
+DESTINAÇÃO
+FASE
+FASE
+FINAL
+CORRENTE INTERMEDIÁRIA
+
+VERIFICAÇÃO DE PARTICIPAÇÃO EM
+02 anos
+ATIVIDADES
+DE
+DESENVOLVIMENTO
+PROFISSIONAL
+E
+EDUCAÇÃO
+CONTINUADA
+CANCELAMENTO
+TEMPORÁRIO
+OU Até a conclusão
+do processo
+DEFINITIVO DE REGISTRO
+
+220
+
+HABILITAÇÃO DE PESSOA JURÍDICA
+
+221
+
+GERENCIAMENTO DE REGISTRO DE PESSOA JURÍDICA
+
+221.1
+
+Enquanto o
+SOLICITAÇÃO DE REGISTRO. ALTERAÇÕES
+CADASTRAIS.
+ALTERAÇÕES
+DE registro estiver
+ativo
+ATIVIDADES
+
+221.2
+
+CANCELAMENTO
+TEMPORÁRIO
+DEFINITIVO DE REGISTRO
+
+230
+
+CONTROLE E MONITORAMENTO DA HABILITAÇÃO PROFISSIONAL
+
+231
+
+GESTÃO DO
+REGIONAL
+
+CADASTRO
+
+NACIONAL
+
+OUAté a conclusão do
+processo
+
+Enquanto o
+E registro estiver
+ativo
+
+10 anos
+
+15 anos
+
+15 anos
+
+15 anos
+
+*
+
+OBSERVAÇÕES
+
+Eliminação
+
+Eliminação
+
+As solicitações de cancelamento
+indeferidas podem ser eliminadas
+após 07 anos.
+
+Eliminação
+
+As solicitações de registro
+indeferidas podem ser eliminadas
+após 07 anos.
+
+Eliminação
+
+As solicitações de cancelamento
+indeferidas podem ser eliminadas
+após 07 anos.
+
+Por se tratar de documentos
+referentes a dados pessoais deve-se
+Guarda Permanente observar o prazo estabelecido de
+100 anos, de acordo com a Lei
+12.527/2011.
+
+51
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+FASE
+FASE
+CORRENTE INTERMEDIÁRIA
+
+DESTINAÇÃO
+FINAL
+
+OBSERVAÇÕES
+As carteiras, cédulas e crachás de
+identificação profissional não
+retiradas/vencidas
+podem
+ser
+eliminadas após 120 dias.
+
+232
+
+EXPEDIÇÃO E CONTROLE DE DOCUMENTOS
+DE IDENTIFICAÇÃO PROFISSIONAL
+
+01 ano
+
+05 anos
+
+Eliminação
+
+As carteiras de identificação
+profissional devolvidas, devido ao
+cancelamento do registro do
+profissional, serão guardadas e
+eliminadas de acordo com prazo
+estabelecido no código 212.3.
+Solicitações de documentos de
+identificação indeferidas podem ser
+eliminadas após 01 ano.
+
+240
+
+REGISTRO E CONTROLE DA ATIVIDADE OU RESPONSABILIDADE TÉCNICA E OBRA INTELECTUAL
+
+Solicitações indeferidas podem ser
+eliminadas após 01 ano.
+
+241
+
+SOLICITAÇÃO E EMISSÃO DE
+RESPONSABILIDADE OU ATIVIDADE
+TÉCNICA
+
+242
+
+AFASTAMENTO TEMPORÁRIO
+
+243
+
+DESLIGAMENTO E BAIXA DE RESPONSABILIDADE TÉCNICA
+
+Enquanto vigora
+
+06 anos
+
+Eliminação
+
+01 ano
+
+06 anos
+
+Eliminação
+
+Para
+fins
+de
+comprovação
+previdenciária,
+a
+guarda
+intermediária deve ser de 52 anos.
+
+52
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+DESTINAÇÃO
+FINAL
+
+FASE
+INTERMEDIÁRIA
+06 anos
+
+Eliminação
+
+Solicitações indeferidas devem
+ser eliminadas após 01 ano.
+Solicitações indeferidas devem
+ser eliminadas após 01 ano.
+
+243.1
+
+SOLICITAÇÃO DE BAIXA
+
+01 ano
+
+243.2
+
+SOLICITAÇÃO
+NULIDADE
+
+DE
+
+CANCELAMENTO.
+
+01 ano
+
+06 anos
+
+Eliminação
+
+243.3
+
+AVERIGUAÇÃO
+SERVIÇO
+
+DA
+
+CONCLUSÃO
+
+01 ano
+
+06 anos
+
+Guarda Permanente
+
+244
+
+REGISTRO DE OBRA INTELECTUAL
+
+01 ano
+
+*
+
+250
+
+COMPROVAÇÃO DO EXERCÍCIO PROFISSIONAL
+
+251
+
+SOLICITAÇÃO DE ACERVO TÉCNICO
+
+252
+
+INCORPORAÇÃO DE ATIVIDADES
+DESENVOLVIDAS NO EXTERIOR
+
+253
+
+CANCELAMENTO
+
+OBSERVAÇÕES
+
+FASE
+CORRENTE
+
+DO
+
+01 ano
+
+01 ano
+
+01 ano
+
+20 anos
+
+20 anos
+
+05 anos
+
+*O acesso à obra intelectual
+Guarda Permanente atenderá a legislação vigente de
+direito autoral.
+
+Eliminação
+
+As solicitações indeferidas ou os
+acervos técnicos sem registro de
+atestado podem ser eliminadas
+após 03 anos no arquivo
+intermediário.
+
+Eliminação
+
+As
+solicitações
+indeferidas
+podem ser eliminadas após 03
+anos no arquivo intermediário.
+
+Eliminação
+
+Os cancelamentos que gerarem
+desdobramentos judiciais devem
+ser mantidos até o trânsito em
+julgado.
+
+53
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+FASE
+CORRENTE
+
+FASE
+INTERMEDIÁRIA
+
+DESTINAÇÃO
+FINAL
+
+300
+
+FISCALIZAÇÃO
+
+301
+
+PLANEJAMENTO E AVALIAÇÃO
+
+04 anos
+
+10 anos
+
+Guarda Permanente
+
+302
+
+AUDITORIA DA FISCALIZAÇÃO
+
+02 anos
+
+10 anos
+
+Guarda Permanente
+
+310
+
+VERIFICAÇÃO DE CONFORMIDADE
+
+311
+
+INSPEÇÃO PERIÓDICA
+
+01 ano
+
+01 ano
+
+312
+
+APURAÇÃO DE DENÚNCIA
+
+320
+
+INSTRUÇÃO, JULGAMENTO E APLICAÇÃO DE PENALIDADE
+
+321
+
+Até a conclusão
+administrativa ou
+DESCUMPRIMENTO ÀS NORMAS ÉTICAS
+trânsito em
+julgado
+
+05 anos
+
+05 anos
+
+20 anos
+
+OBSERVAÇÕES
+
+Eliminação
+
+As inspeções que gerarem
+desdobramentos judiciais devem
+ser mantidas no arquivo corrente
+até o trânsito em julgado.
+
+Eliminação
+
+As inspeções que gerarem
+desdobramentos judiciais devem
+ser mantidas no arquivo corrente
+até o trânsito em julgado.
+
+Os processos julgados que não
+Guarda Permanente geraram penalidades podem ser
+eliminados após a guarda
+intermediária.
+
+54
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+FASE
+CORRENTE
+
+FASE
+INTERMEDIÁRIA
+
+DESTINAÇÃO
+FINAL
+
+400
+
+Até a conclusão
+OUTROS administrativa ou
+trânsito em
+julgado
+DESENVOLVIMENTO E VALORIZAÇÃO PROFISSIONAL
+
+401
+
+PLANEJAMENTO E AVALIAÇÃO ANUAL
+
+04 anos
+
+10 anos
+
+Guarda Permanente
+
+402
+
+AUDITORIA DE DESENVOLVIMENTO E
+VALORIZAÇÃO PROFISSIONAL
+
+02 anos
+
+10 anos
+
+Guarda Permanente
+
+403
+
+Até o
+CREDENCIAMENTO DE PROFISSIONAIS E cancelamento do
+INSTITUIÇÕES
+credenciamento
+
+10 anos
+
+Eliminação
+
+410
+
+PROMOÇÃO DE ATIVIDADE DE CAPACITAÇÃO PROFISSIONAL
+
+411
+
+ORGANIZAÇÃO. AVALIAÇÃO
+
+02 anos
+
+10 anos
+
+Guarda Permanente
+
+412
+
+EXECUÇÃO
+
+01 ano
+
+01 ano
+
+Eliminação
+
+420
+
+APOIO E FOMENTO PARA DESENVOLVIMENTO PROFISSIONAL
+
+322
+
+DESCUMPRIMENTO
+DISPOSITIVOS LEGAIS
+
+DE
+
+06 anos
+
+Eliminação
+
+OBSERVAÇÕES
+
+55
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+FASE
+FASE
+CORRENTE INTERMEDIÁRIA
+
+DESTINAÇÃO
+FINAL
+
+OBSERVAÇÕES
+
+* ou até a apresentação do
+Relatório de Gestão.
+
+421
+
+Até a aprovação
+CADASTRAMENTO E APOIO DE CURSOS DE das contas pelo
+QUALIFICAÇÃO PROFISSIONAL
+Tribunal de
+Contas*
+
+05 anos a contar da
+aprovação das contas
+pelo Tribunal de
+Contas**
+
+Eliminação
+
+** ou 10 anos a contar da
+apresentação do Relatório de
+Gestão.
+Propostas não aprovadas ou que
+não
+envolvam
+pagamento,
+eliminar em 02 anos.
+* ou até a apresentação do
+Relatório de Gestão.
+
+422
+
+APOIO
+A
+CURSOS
+E
+EVENTOS
+DESENVOLVIMENTO PROFISSIONAL
+
+Até a aprovação
+DE das contas pelo
+Tribunal de
+Contas*
+
+05 anos a contar da
+aprovação das contas
+pelo Tribunal de
+Contas**
+
+Eliminação
+
+** ou 10 anos a contar da
+apresentação do Relatório de
+Gestão
+Propostas não aprovadas ou que
+não
+envolvam
+pagamento,
+eliminar em 02 anos.
+* ou até a apresentação do
+Relatório de Gestão
+
+423
+
+Até a aprovação
+APOIO À PRODUÇÃO TÉCNICO-CIENTÍFICA
+das contas pelo
+DA PROFISSÃO REGULAMENTADA
+Tribunal de
+Contas*
+
+05 anos a contar da
+aprovação das contas
+pelo Tribunal de
+Contas**
+
+Eliminação
+
+** ou 10 anos a contar da
+apresentação do Relatório de
+Gestão
+Propostas não aprovadas ou que
+não
+envolvam
+pagamento,
+eliminar em 02 anos.
+
+56
+
+PRAZOS DE GUARDA
+CÓDIGO
+
+DESCRITOR DO CÓDIGO
+
+FASE
+FASE
+CORRENTE INTERMEDIÁRIA
+
+DESTINAÇÃO
+FINAL
+
+OBSERVAÇÕES
+
+Para os casos de direitos
+autorais cumprir a legislação
+vigente.
+430
+
+AÇÕES DE VALORIZAÇÃO PROFISSIONAL
+
+431
+
+REALIZAÇÃO
+INSTITUCIONAIS
+
+432
+
+PREMIAÇÕES
+
+DE
+
+CAMPANHAS
+
+01 ano
+
+15 anos
+
+Guarda Permanente
+
+02 anos
+
+10 anos
+
+Guarda Permanente
+
+57
+
+REFERÊNCIAS
+
+ARQUIVO NACIONAL (Brasil). Conselho Nacional de Arquivos. Resolução n.º 14, de 24
+de outubro de 2001. Aprova a versão revisada e ampliada da Resolução nº 4, de 28 de março
+de 1996, que dispõe sobre o Código de Classificação de Documentos de Arquivo para a
+Administração Pública: atividades-meio, a ser adotado como modelo para os arquivos
+correntes dos órgãos e entidades integrantes do Sistema Nacional de Arquivos (SINAR), e os
+prazos de guarda e a destinação de documentos estabelecidos na Tabela Básica de
+Temporalidade e Destinação de Documentos de Arquivo Relativos as atividades-meio da
+Administração Pública. Disponível em: http://conarq.arquivonacional.gov.br/resolucoes-doconarq/256-resolucao-n-14-de-24-de-outubro-de-2001.html. Acesso em: 20 ago. 2019.
+BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil de 1988.
+Brasília, DF: Presidência da República, [2016]. Disponível em:
+http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em: 10 ago. 2019.
+BRASIL. Lei n.º 8.159, de 8 de janeiro de 1991. Dispõe sobre a política nacional de arquivos
+públicos e privados e dá outras providências. Diário Oficial da União, Brasília, 8 jan. 1991.
+Disponível em: http://www.planalto.gov.br/ccivil_03/LEIS/L8159.htm. Acesso em: 07 ago.
+2019
+BRASIL. Tribunal de Contas da União. Secretaria-Geral de Controle Externo. Glossário de
+Termos do Controle Externo. Brasília: Tribunal de Contas da União, set. 2012.
+CONSELHO FEDERAL DE FARMÁCIA. Resolução n.º 577, de 25 de julho de 2013.
+Dispõe sobre a direção técnica ou responsabilidade técnica de empresas ou estabelecimentos
+que dispensam, comercializam, fornecem e distribuem produtos farmacêuticos, cosméticos e
+produtos para a saúde. Disponível em: https://cffbr.implanta.net.br/portaltransparencia/#publico/Listas?id=704808bb-41da-4658-97d9c0978c6334dc. Acesso em: 20 ago. 2019.
+CONSELHO FEDERAL DE FARMÁCIA. Resolução n.º 596, de 21 de fevereiro de 2014.
+Dispõe sobre o Código de Ética Farmacêutica, o Código de Processo Ético e estabelece as
+infrações e as regras de aplicação das sanções disciplinares. Disponível em: https://cffbr.implanta.net.br/portaltransparencia/#publico/Listas?id=704808bb-41da-4658-97d9c0978c6334dc. Acesso em: 20 ago. 2019.
+CONSELHO INTERNACIONAL DE ARQUIVOS. ISDF: norma internacional para
+descrição de funções. Tradução de Vitor Manoel Marques da Fonseca. Rio de Janeiro:
+Arquivo Nacional, 2008.
+COSTA, Beatriz Rezende Marques; VALENTE, Manoel Adam Lacayo. Responsabilidade
+social dos Conselhos Profissionais. Brasília: Consultoria Legislativa, nov. 2008. Disponível
+em: https://www2.camara.leg.br/atividade-legislativa/estudos-e-notas-tecnicas/publicacoesda-consultoria-legislativa/areas-da-conle/tema1/2008-14144.pdf. Acesso em: ago. 2019.
+SISTEMA DE ARQUIVOS DA UNIVERSIDADE DE SÃO PAULO.. Glossário de
+espécies/formatos e tipos documentais da Universidade de São Paulo. São Paulo:
+58
+
+Universidade de São Paulo, out. 1997. Disponível em:
+https://edisciplinas.usp.br/pluginfile.php/4177763/mod_resource/content/1/glossario1.pdf.
+Acesso em: 21 ago. 2019.
+
+59
+
+GLOSSÁRIO
+
+ACERVO: Totalidade dos documentos sob custódia de um arquivo.
+ACESSO: 1. Possibilidade de consulta a documentos. 2. Função arquivística destinada a
+tornar acessíveis os documentos e a promover sua utilização mediante a preparação e a
+publicação de instrumentos de pesquisa, a organização de serviço educativo, de referência e
+divulgação.
+ACONDICIONAMENTO: Ato ou efeito de embalar ou guardar documentos de forma
+apropriada à sua preservação e manuseio.
+ACUMULAÇÃO: Reunião de documentos produzidos e/ou recebidos no curso das
+atividades de uma instituição ou pessoa.
+ADMINISTRAÇÃO DE ARQUIVOS: Direção, supervisão e coordenação das atividades de
+arquivo.
+AMOSTRAGEM: Técnica de seleção de documentos representativos de um conjunto.
+ANEXAÇÃO: Juntada, em caráter definitivo, na qual prevalece, para referência, o número do
+processo mais antigo.
+ANEXO: Documento juntado a outro ou a um processo por afinidade de conteúdo, em caráter
+definitivo.
+ANOTAÇÃO ou DECLARAÇÃO DE RESPONSABILIDADE TÉCNICA: é um
+instrumento que tem a função de registrar e comprovar as atividades técnicas desempenhadas
+pelo profissional registrado no exercício da profissão em um determinado trabalho. Para todos
+os efeitos legais, é esse instrumento que define o(s) responsável (eis) pelas atividades
+descritas no documento.
+APENSAÇÃO: Juntada, em caráter temporário, feita com o objetivo de elucidar ou subsidiar
+a matéria tratada, conservando em cada processo a sua identidade e independência.
+APENSO: Documento ou processo juntado a processo, sem, contudo, passar a integrá-lo.
+ARMAZENAMENTO: Ato ou efeito de guardar documentos em áreas utilizadas para este
+fim. V.tb. ACONDICIONAMENTO.
+
+60
+
+ARQUIVAMENTO: 1. Sequência de operações que visam à guarda ordenada de
+documentos. 2. Ação pela qual uma autoridade determina a guarda de um documento cessada
+a sua tramitação.
+ARQUIVO: 1. Conjunto de documentos independente da natureza dos suportes, acumulados
+por uma pessoa física ou jurídica, pública ou privada, no desempenho de suas atividades. 2.
+Instituição ou serviço que tem por finalidade a custódia, o processamento técnico, a
+conservação e utilização de arquivos.
+ARQUIVO ADMINISTRATIVO: Arquivo com predominância de documentos decorrentes
+do exercício das atividades-meio de uma instituição; expressão usada em oposição a arquivo
+técnico.
+ARQUIVO CENTRAL: Unidade responsável pela normalização dos procedimentos técnicos
+aplicados aos arquivos de uma administração, podendo ou não assumir a centralização do
+armazenamento. Também chamado arquivo geral. V.tb. ARQUIVO SETORIAL.
+ARQUIVO CORRENTE: 1. Conjunto de documentos em tramitação ou não, que pelo seu
+valor primário é objeto de consultas frequentes pela entidade que o produziu, a quem compete
+a sua administração. 2. Unidade administrativa ou serviço encarregado do arquivo corrente.
+ARQUIVO INTERMEDIÁRIO: 1. Conjunto de documentos originários de arquivos
+correntes, que aguarda destinação e com uso pouco frequente. 2. Unidade administrativa ou
+serviço encarregado do arquivo intermediário. 3. Depósito especialmente construído para
+armazenamento de arquivos intermediários.
+ARQUIVO NACIONAL: Arquivo público (2) mantido pela administração central ou federal
+de um país.
+ARQUIVO PERMANENTE: 1. Conjunto de documentos preservados em caráter definitivo
+em função de seu valor. 2. Unidade administrativa ou serviço encarregado do arquivo
+permanente. Também chamado de arquivo histórico.
+ARQUIVO PÚBLICO: 1. Arquivo produzido por instituição pública no exercício de suas
+funções, independente de seu âmbito de ação e do sistema de governo do país. 2. Arquivo
+integrante da administração pública.
+ARQUIVO SETORIAL: 1. Arquivo acumulado por um determinado setor ou serviço de
+uma administração. 2. Unidade administrativa ou serviço encarregado do arquivo setorial;
+existindo um arquivo central, estará a ele tecnicamente subordinado.
+
+61
+
+ARQUIVO TÉCNICO: Arquivo com predominância de documentos decorrentes do
+exercício das atividades-fim de uma instituição; expressão usada em oposição a arquivo
+administrativo.
+ARRANJO: Sequência de operações que, de acordo com um plano ou quadro previamente
+estabelecido, visa à organização dos documentos de um arquivo ou coleção, utilizando-se
+diferentes métodos.
+ATA: Relato circunstanciado das ocorrências, resoluções e decisões de reuniões, assembleias,
+eleições ou sessões de colegiados.
+ATIVIDADE-FIM: Expressão que designa as atividades desenvolvidas em decorrência da
+finalidade de uma instituição.
+ATIVIDADE-MEIO: Expressão que designa as atividades que dão suporte à consecução das
+atividades-fim de uma instituição.
+AUTO DE INFRAÇÃO: documento hábil para a autuação e descrição de prática infracional
+cujos indícios de autoria, materialidade e tipicidade estejam caracterizados.
+AUDITORIA: Processo sistemático, documentado e independente de se avaliar
+objetivamente uma situação ou condição para determinar a extensão na qual os critérios
+aplicáveis são atendidos, obter evidências quanto a esse atendimento e relatar os resultados
+dessa avaliação a um destinatário predeterminado.
+AVALIAÇÃO: Processo de análise de documentos de arquivo, que estabelece sua destinação
+de acordo com os valores que lhes são atribuídos.
+CARTEIRA DE INDENTIDADE PROFISSIONAL: é um documento de identificação
+fornecido aos profissionais registrados em um Conselho de Fiscalização Profissional e válido
+em todo o território nacional.
+CICLO VITAL DOS DOCUMENTOS: Sucessivas fases por que passam os documentos de
+um arquivo da sua produção até sua eliminação ou guarda permanente.
+CLASSE: Cada divisão que compõe um sistema de classificação.
+CLASSIFICAÇÃO: 1. Organização dos documentos de um arquivo ou coleção, de acordo
+com um plano de classificação ou quadro de arranjo. 2. Ato ou efeito de analisar e identificar
+o conteúdo de documentos, selecionar a categoria de assunto sob a qual devem ser
+basicamente recuperados, podendo-se atribuir um código. 3. Ato pelo qual se atribui a
+documentos ou às informações neles contidas, graus de sigilo conforme legislação específica.
+Também chamada classificação de segurança.
+62
+
+CÓDIGO DE CLASSIFICAÇÃO: Sistema de códigos derivado de um plano de
+classificação. V.tb. PLANO DE CLASSIFICAÇÃO.
+CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL: Entidades que têm por dever legal
+zelar pelo interesse público, efetuando, para tanto, nos respectivos campos profissionais, a
+supervisão qualitativa, técnica e ética do exercício das profissões liberais, na conformidade da
+lei.
+DATA DE ACESSO: Data em que finda a restrição de acesso a um documento.
+DATAS-LIMITE: Elemento de identificação cronológica, em que são mencionados o início
+e término do período abrangido por um conjunto de documentos.
+DECLARAÇÃO: Manifesto de uma opinião, conceito, resolução ou observação a respeito de
+algo assinado por uma autoridade ou por um colegiado.
+DENÚNCIA: Prerrogativa constitucional de qualquer cidadão de dar notícia de
+irregularidades ou ilegalidades praticadas pelos profissionais ou empresas registradas no
+Conselho de Fiscalização Profissional.
+DELIBERAÇÃO: Ato de decisão sobre uma questão pautada, executada por um órgão
+colegiado.
+DESAPENSAÇÃO: Separação de um ou mais processos juntados por apensação.
+DESCARTE: Exclusão de documentos do acervo de um arquivo após avaliação. V.tb.
+ELIMINAÇÃO.
+DESCRIÇÃO: Conjunto de procedimentos que, levando em conta os elementos formais e de
+conteúdo das unidades de arquivamento, representam-nas nos instrumentos de pesquisa.
+DESCRITOR: Palavra ou grupo de palavras que, em indexação e tesauro, designa um
+conceito ou um assunto preciso, excluindo outros sentidos e significados.
+DESTINAÇÃO: Decisão, a partir da avaliação, quanto ao encaminhamento dos documentos
+para guarda permanente, descarte ou eliminação. V.tb. TABELA DE TEMPORALIDADE.
+DOCUMENTAÇÃO: 1. Conjunto de documentos. 2. Ato ou serviço de coleta,
+processamento técnico e disseminação de informações e documentos.
+DOCUMENTO: Unidade de registro de informações qualquer que seja o suporte utilizado.
+V.tb. ITEM DOCUMENTAL.
+
+63
+
+DOCUMENTO OFICIAL: Documento emanado do poder público ou de instituições de
+direito privado que produz efeitos de ordem jurídica na comprovação de um fato.
+DOCUMENTO OSTENSIVO: Documento sem qualquer restrição de acesso.
+DOCUMENTO PÚBLICO: 1. Do ponto de vista da acumulação, documento de arquivo
+público. 2. Do ponto de vista da propriedade, documento de propriedade do poder público. 3.
+Do ponto de vista da produção, documento emanado do poder público.
+DOSSIÊ: Unidade de arquivamento constituída de documentos relacionados entre si por
+assunto.
+EDUCAÇÃO CONTINUADA: É a atividade que visa manter, atualizar e expandir os
+conhecimentos e competências técnicas e profissionais, as habilidades multidisciplinares e a
+elevação do comportamento social, moral e ético dos profissionais vinculados aos Conselhos
+de Fiscalização Profissional, como características indispensáveis à qualidade dos serviços
+prestados e ao pleno atendimento das normas que regem o exercício da profissão.
+ELIMINAÇÃO: Destruição de documentos que, na avaliação, foram considerados sem valor
+para a guarda permanente. V.tb. DESCARTE.
+ENTIDADE: É uma pessoa jurídica pública ou privada dotada de personalidade jurídica
+própria. Quando se tratando de entidade pública é formada pela administração indireta.
+ESPÉCIE DOCUMENTAL: Divisão de gênero documental, que reúne tipos documentais
+por suas características comuns de estruturação da informação, como ata, carta, decreto, disco,
+filme, fita, fotografia, memorando, ofício, plantas, relatório.
+ÉTICA PROFISSIONAL: Dimensões de valores éticos e morais referentes ao exercício de
+profissão regulamentada, reguladas em normas pelos Conselhos de Fiscalização Profissional.
+EXAME DE EQUALIZAÇÃO: É uma avaliação a que se submetem, por força de lei, os
+bacharéis formados que tem por finalidade comprovar a capacitação, conhecimentos e
+práticas necessários ao exercício da profissão regulamentada.
+EXAME DE HABILITAÇÃO: É uma avaliação que tem por finalidade avaliar o
+conhecimento e a competência técnico-profissional dos profissionais registrados nos
+Conselhos de Fiscalização Profissional que pretendem a obtenção de registro complementar
+para atuar em atividades de extensão da habilitação profissional.
+FISCALIZAÇÃO: É uma atividade fiscalizadora que visa, primordialmente, valorizar a
+imagem da profissão, como também a proteção ao usuário em relação aos profissionais
+(pessoas físicas e/ou jurídicas) vinculados aos Conselhos de Fiscalização Profissional
+64
+
+valendo-se, para tal fim, dos meios restritivos e coercitivos que se justifiquem e se coadunem
+com a dignidade, a responsabilidade e o respeito aos princípios profissionais, fazendo
+prevalecer sua autoridade no sentido de que as ações fiscalizatórias resultem em benefício à
+sociedade.
+FUNDO: Conjunto de documentos de uma mesma proveniência; termo que equivale a
+arquivo. Também referido como núcleo.
+FUNDO ABERTO: Conjunto ao qual podem ser acrescentados novos documentos, em
+função do gerador do arquivo continuar em atividade. Também referido como núcleo aberto.
+FUNDO FECHADO: Fundo que, em função do fato do gerador do arquivo não se encontrar
+mais em atividade, não receberá acréscimos de documentos de data posterior à sua existência.
+Também referido como núcleo fechado.
+GÊNERO DOCUMENTAL: Reunião de espécies documentais que se assemelham por seus
+caracteres essenciais, particularmente o suporte e a forma de registro da informação, como
+documentação audiovisual, documentação cartográfica, documentação iconográfica,
+documentação informática.
+GESTÃO DE DOCUMENTOS: Administração da produção, tramitação, organização, uso e
+avaliação de documentos, mediante técnicas e práticas arquivísticas, visando à racionalização
+e eficiência dos arquivos. Também referida como administração de documentos.
+GRAU DE SIGILO: Gradação atribuída à classificação de um documento sigiloso, de
+acordo com a natureza de seu conteúdo e tendo em vista a conveniência de limitar sua
+divulgação às pessoas que têm necessidade de conhecê-lo. V.tb. CLASSIFICAÇÃO.
+GUIA DE TRANSFERÊNCIA: Instrumento de controle de entrada de documentos em
+arquivos intermediários.
+IDENTIFICAÇÃO: Processo de reconhecimento, sistematização e registro de informações
+sobre arquivos com vista ao seu controle físico e/ou intelectual.
+INSPEÇÃO: Instrumento para suprir omissões e lacunas de informações, esclarecer dúvidas
+ou apurar denúncias ou representações quanto ao descumprimento de normas e demais
+dispositivos legais no âmbito de fiscalização de um órgão.
+INSTRUÇÃO NORMATIVA: Documento de organização e ordenamento administrativo
+interno destinado a estabelecer diretrizes, normatizar métodos e procedimentos, bem como
+regulamentar matéria específica anteriormente disciplinada a fim de orientar os agentes de um
+órgão no desempenho de suas atribuições.
+
+65
+
+ITEM DOCUMENTAL: Unidade documental fisicamente indivisível. Também referido
+como peça.
+JUNTADA: Ato ou efeito de apensação ou anexação de um processo a outro. Termo também
+aplicado à junção de documentos a um processo.
+LISTA DE ELIMINAÇÃO: Relação de documentos cuja eliminação foi autorizada.
+Também referida como listagem de eliminação.
+NOTAÇÃO: Código de identificação das unidades de arquivamento que permite sua
+ordenação ou localização.
+OBRA INTELECTUAL: Toda criação intelectual que é resultante de uma criação do
+espírito humano (intelecto), revestindo-se de originalidade, inventividade e caráter único e
+plasmada sobre um suporte material qualquer.
+OBSERVAÇÕES E/OU JUSTIFICATIVAS: Campo onde devem ser registradas notas
+complementares úteis ao esclarecimento das informações referentes aos conjuntos
+documentais a serem eliminados, assim como as justificativas que se fizerem necessárias.
+OFÍCIO: Forma de comunicação escrita entre subalternos e autoridades e entre os órgãos
+públicos e os particulares, em caráter oficial.
+ORDEM DE SERVIÇO: Determinação técnica ou administrativa expedida por escrito por
+autoridade dirigida a responsáveis por obras ou serviços.
+ORIENTAÇÃO TÉCNICA: Serviço de atendimento a questionamentos sobre normas e
+regulamentações do Conselho de Fiscalização Profissional, bem como sobre a atuação
+profissional.
+PARECER: Opinião técnica ou jurídica sobre determinado assunto, servindo de base para
+decisão.
+PERÍODO DE RETENÇÃO: Período de tempo, baseado em estimativas de uso, em que os
+documentos devem ser mantidos nos arquivos correntes, antes de serem transferidos para um
+arquivo intermediário, ou em um arquivo intermediário, antes de serem recolhidos ao arquivo
+permanente.
+PLANEJAMENTO: Elaboração de plano de trabalho específico, estabelecendo o escopo, o
+prazo e a alocação de recursos, bem como desenvolvendo os procedimentos necessários para
+consecução do objetivo do plano.
+
+66
+
+PLANO DE CLASSIFICAÇÃO: Esquema elaborado a partir do estudo das estruturas e
+funções da instituição e análise do arquivo (1) por ela produzido, pelo qual se distribuem os
+documentos em classes, de acordo com métodos de arquivamento específicos. Expressão
+geralmente adotada em arquivos correntes. V.tb. CÓDIGO DE CLASSIFICAÇÃO.
+PORTARIA: Ato pelo qual as autoridades competentes determinam providências de caráter
+administrativo, impõem normas, definem situações funcionais, aplicam penas disciplinares e
+atos semelhantes.
+PRAZO DE ELIMINAÇÃO: Prazo fixado em tabela de temporalidade ao fim do qual os
+documentos não considerados de valor permanente deverão ser eliminados.
+PRAZO DE GUARDA: Prazo definido na tabela de temporalidade, baseado em estimativa
+de uso, em que os documentos devem ser mantidos no arquivo corrente ou no arquivo
+intermediário, ao fim do qual a destinação é efetivada. Também referido como prazo de
+retenção.
+PRESCRIÇÃO: Extinção de prazos para a aquisição ou perda de direitos contidos nos
+documentos.
+PRESERVAÇÃO: Prevenção da deterioração e danos em documentos, por meio de
+adequado controle ambiental e/ou tratamento.
+PRINCÍPIO DA PROVENIÊNCIA: Princípio básico da arquivologia segundo o qual os
+arquivos gerados por uma instituição ou pessoa não devem ser misturados aos de outros
+geradores.
+PROCESSO: Conjunto de documentos oficialmente reunidos no decurso de uma ação
+administrativa ou judicial, que constitui uma unidade de arquivamento.
+PROFISSÃO REGULAMENTADA: São aquelas profissões cujo exercício tenha sido
+reconhecido e regulamentado por Lei ou Decreto Federal que em sua legislação está
+determinando quais as obrigações a exercer, e também sobre os direitos e deveres que possui
+em determinado exercício profissional.
+PRESTAÇÃO DE CONTAS: 1. Conjunto de documentos que comprovam as
+movimentações financeiras de um órgão durante determinado período de tempo. 2.
+Demonstração organizada das movimentações financeiras para um órgão controlador ou
+autoridade responsável pela aprovação das contas.
+PROTOCOLO: Serviço encarregado do recebimento, registro, autuação, classificação,
+distribuição, controle da tramitação e expedição de documentos. Também referido como
+
+67
+
+unidade
+protocolizadora.
+PROTOCOLIZADORA.
+
+V.tb.
+
+ARQUIVO
+
+CORRENTE
+
+V.tb.
+
+UNIDADE
+
+QUADRO DE ARRANJO: Esquema estabelecido para arranjo de documentos de um
+arquivo, a partir do estudo das estruturas, funções ou atividades do gerador e da análise do
+acervo. Expressão adotada em arquivos permanentes.
+RECOLHIMENTO: 1. Entrada de documentos em arquivos permanentes, em conformidade
+com a sua jurisdição arquivística. 2. Operação pela qual um conjunto de documentos passa da
+custódia do arquivo intermediário para o arquivo permanente.
+RECURSO: Instrumento de contestação de um ato ou decisão administrativa ou judicial,
+visando sua alteração, fundamentado na ilegalidade ou inconveniência destes.
+RECUPERAÇÃO DA INFORMAÇÃO: Ato ou efeito de identificar ou localizar a
+informação desejada.
+RELAÇÃO DE RECOLHIMENTO: Instrumento de controle de entrada de documentos nos
+arquivos permanentes.
+RELATÓRIO: Exposição de ocorrências, de fatos, de transações, ou de atividades realizadas
+por autoridade com finalidade de prestar conta de seus atos à autoridade superior.
+REGISTRO PROFISSIONAL: É o registro concedido pelo Conselho Regional da
+jurisdição do domicílio profissional aos portadores de diploma de Bacharel ou
+diploma/certificado de Técnico, devidamente registrado, fornecido por estabelecimento de
+ensino ou certidão de inteiro teor expedida por órgão competente.
+REQUERIMENTO: Instrumento pelo qual o signatário faz um pedido a uma autoridade.
+RESOLUÇÃO: Ato emanado de órgão colegiado para estabelecer normas ou para fazer
+cumprir suas deliberações.
+RESPONSABILIDADE TÉCNICA: Ato de aplicar conhecimentos técnicos e profissionais,
+cuja responsabilidade objetiva está sujeita a sanções de natureza cível, penal e administrativa.
+SEGUNDA VIA DE CARTEIRA DE IDENTIDADE PROFISSIONAL: É a emissão de
+um novo documento decorrente do extravio ou da inutilização do documento emitido
+anteriormente.
+SELEÇÃO: Eleição, durante a avaliação de um arquivo, dos documentos de valor
+permanente e dos passíveis de eliminação, mediante critérios e técnicas previamente
+estabelecidos.
+68
+
+SUPORTE: Material sobre o qual são registradas as informações.
+TABELA DE TEMPORALIDADE: Instrumento de destinação, aprovado pela autoridade
+competente, que determina prazos e condições de guarda, tendo em vista transferência,
+recolhimento ou eliminação de documentos.
+TEORIA DAS TRÊS IDADES: Teoria segundo a qual os arquivos são considerados
+correntes, intermediários ou permanentes, de acordo com a frequência de uso por seus
+geradores e a identificação de seus valores primário e secundário. V.tb. CICLO VITAL DOS
+DOCUMENTOS.
+TERMO DE ELIMINAÇÃO: Instrumento que reúne informações sucintas sobre os
+documentos que, após terem cumprido o prazo de guarda estabelecido na tabela de
+temporalidade, foram eliminados. V.tb. LISTA DE ELIMINAÇÃO.
+TIPO DOCUMENTAL: Divisão de espécie documental que reúne documentos por suas
+características comuns em termos de fórmula diplomática, natureza de conteúdo ou técnica do
+registro, tais como cartas precatórias, cartas régias, cartas patentes, decretos-leis, decretos sem
+número, decretos legislativos, fotografias, litogravuras, serigrafias, xilogravuras.
+TRÂMITE: Curso do documento, desde a sua produção ou recepção, até o cumprimento de
+sua função administrativa. Também referido como tramitação ou movimentação.
+TRANSFERÊNCIA: Passagem de documentos do arquivo corrente para o arquivo
+intermediário.
+UNIDADE DE ARQUIVAMENTO: Documento ou conjunto de documentos que se toma
+por base para fins de classificação (1), armazenamento, arranjo e notação.
+UNIDADE PROTOCOLIZADORA: Setor (ou unidade administrativa) que, além de
+realizar as atividades de protocolo, tem a incumbência de autuar processos,
+independentemente de sua denominação e posicionamento hierárquico na estrutura
+organizacional. V.tb. PROTOCOLO.
+VALOR ADMINISTRATIVO: Valor que um documento possui para a administração
+produtora do arquivo, na medida em que informa, fundamenta ou aprova seus atos presentes
+ou futuros. V.tb. VALOR PRIMÁRIO.
+VALOR FISCAL: Valor atribuído a documentos ou arquivos para comprovação de
+operações financeiras ou fiscais.
+VALOR HISTÓRICO: Ver VALOR PERMANENTE.
+
+69
+
+VALOR INFORMATIVO: Valor que um documento possui pelas informações nele
+contidas, independente de seu valor probatório.
+VALOR LEGAL: Valor que um documento possui perante a lei para comprovar um fato ou
+constituir um direito. V.tb. VALOR PROBATÓRIO.
+VALOR PERMANENTE: Valor probatório ou valor informativo que justifica a guarda
+permanente de um documento em um arquivo. Também referido como valor histórico. V.tb.
+VALOR SECUNDÁRIO.
+VALOR PRIMÁRIO: Valor atribuído aos documentos em função do interesse que possam
+ter para o gerador do arquivo, levando-se em conta a sua utilidade para fins administrativos,
+legais e fiscais. V.tb. VALOR ADMINISTRATIVO.
+VALOR PROBATÓRIO: Valor intrínseco de um documento de arquivo que lhe permite
+servir de prova legal. V.tb. VALOR LEGAL.
+VALOR SECUNDÁRIO: Valor atribuído aos documentos em função do interesse que
+possam ter para o gerador do arquivo, e para outros usuários, tendo em vista a sua utilidade
+para fins diferentes daqueles para os quais foram originalmente produzidos. V.tb. VALOR
+PERMANENTE.
+VIGÊNCIA: Período no qual permanecem efetivos e válidos os encargos e disposições
+contidos nos documentos.
+
+70
+
+ÍNDICE
+
+-AAÇÕES DE VALORIZAÇÃO PROFISSIONAL
+
+430
+
+premiações
+
+432
+
+realização de campanhas institucionais
+
+431
+
+ACOMPANHAMENTO DE PROPOSIÇÕES LEGAIS, INFRALEGAIS E
+POLÍTICAS
+
+120
+
+articulações políticas
+
+122
+
+monitoramento das proposições legais e infralegais
+
+121
+
+APOIO E FOMENTO PARA DESENVOLVIMENTO PROFISSIONAL
+
+420
+
+apoio a cursos e eventos de desenvolvimento profissional
+
+422
+
+apoio à produção técnico-científica da profissão regulamentada
+
+423
+
+cadastramento e apoio de cursos de qualificação profissional
+
+421
+
+-CCOMPROVAÇÃO DO EXERCÍCIO PROFISSIONAL
+
+250
+
+cancelamento
+
+253
+
+incorporação de atividades desenvolvidas no exterior
+
+252
+
+solicitação de acervo técnico
+
+251
+
+CONTROLE E MONITORAMENTO DA HABILITAÇÃO PROFISSIONAL
+
+230
+
+gestão do cadastro nacional e regional
+
+231
+
+expedição e controle de documentos de identificação profissional
+
+232
+
+71
+
+-DDESENVOLVIMENTO E VALORIZAÇÃO PROFISSIONAL
+
+400
+
+auditoria de desenvolvimento e valorização profissional
+
+402
+
+credenciamentos de profissionais e instituições
+
+403
+
+planejamento e avaliação anual
+
+401
+
+DESLIGAMENTO E BAIXA DE RESPONSABILIDADE TÉCNICA
+
+243
+
+nulidade
+
+243.2
+
+solicitação de baixa
+
+243.1
+
+solicitação de cancelamento
+
+243.2
+
+averiguação da conclusão do serviço
+
+243.3
+
+-FFISCALIZAÇÃO
+
+300
+
+auditoria da fiscalização
+
+302
+
+planejamento e avaliação
+
+301
+
+verificação de conformidade
+
+310
+
+apuração de denúncia
+
+312
+
+inspeção periódica
+
+311
+
+-GGERENCIAMENTO DO REGISTRO PROFISSIONAL
+
+212
+
+alteração cadastral.
+
+212.1
+
+cancelamentos temporário ou definitivo de registro
+
+212.3
+
+extensão de atribuição
+
+212.1
+
+solicitação de registro
+
+212.1
+
+72
+
+-HHABILITAÇÃO DE PESSOA JURÍDICA
+gerenciamento de registro de pessoa jurídica
+
+220
+221
+
+alteração de atividades
+
+221.1
+
+alterações cadastrais
+
+221.1
+
+cancelamento temporário ou definitivo de registro
+
+221.2
+
+solicitação de registro
+
+221.1
+
+HABILITAÇÃO DO PROFISSIONAL
+
+210
+
+exame de equalização e habilitação
+
+211
+
+aplicação de prova
+
+211.2
+
+planejamento do exame
+
+211.1
+
+resultados e recursos
+
+211.3
+
+HABILITAÇÃO E GESTÃO DO EXERCÍCIO PROFISSIONAL
+
+200
+
+auditoria da habilitação
+
+202
+
+cadastramento de instituições de ensino e cursos
+
+203
+
+planejamento e avaliação
+
+201
+
+-IINSTRUÇÃO, JULGAMENTO E APLICAÇÃO DE PENALIDADE
+
+320
+
+descumprimento às normas éticas
+
+321
+
+descumprimento de outros dispositivos legais
+
+322
+
+-NNORMATIZAÇÃO. REGULAMENTAÇÃO. ORIENTAÇÃO TÉCNICA
+
+100
+
+consultas sobre normas e regulamentos
+
+101
+
+formulação de normas e regulamentos finalísticos
+
+110
+
+aprovação e homologação de normas
+
+112
+
+elaboração e revisão de normas
+
+111
+73
+
+-PPROMOÇÃO DE ATIVIDADE DE CAPACITAÇÃO PROFISSIONAL
+
+410
+
+avaliação
+
+411
+
+execução
+
+412
+
+organização.
+
+411
+
+-RREGISTRO E CONTROLE DA ATIVIDADE OU RESPONSABILIDADE
+TÉCNICA E OBRA INTELECTUAL
+
+240
+
+afastamento temporário
+
+242
+
+registro de obra intelectual
+
+244
+
+solicitação e emissão de responsabilidade ou atividade técnica
+
+241
+
+-V-
+
+VERIFICAÇÃO
+
+DE
+
+DESENVOLVIMENTO
+CONTINUADA
+
+PARTICIPAÇÃO
+
+EM
+
+PROFISSIONAL
+
+ATIVIDADES
+E
+
+DE
+
+EDUCAÇÃO
+212.2
+
+74
+
+
