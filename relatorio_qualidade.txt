@@ -1,0 +1,144 @@
+================================================================================
+  RELATÓRIO DE QUALIDADE — MAPEAMENTO DE TEMPORALIDADE DOCUMENTAL
+  CREA-GO | DPO: Erica Aihara
+  Data de processamento: 09/04/2026 às 13:12
+  Referência TTDD: Conselhos de Fiscalização (Arquivo Nacional, 2019)
+              +    Atividades-Meio (Conarq, 2024)
+================================================================================
+
+1. VISÃO GERAL DO PROCESSAMENTO
+────────────────────────────────
+  Total de assuntos no MED (prot_assuntos.csv) : 214
+  Aproveitados do mapeamento v3 (DPO, Mar/2026): 184 (86%)
+  Assuntos novos processados nesta sessão       :  30 (14%)
+  ─────────────────────────────────────────────────────
+  TOTAL MAPEADO                                 : 214 (100%)
+
+2. DISTRIBUIÇÃO DE CONFIANÇA — 30 ASSUNTOS NOVOS
+──────────────────────────────────────────────────
+  ✅ Alta confiança  (≥ 85%) :  21 assuntos (70%) — Prontos para uso
+  🔍 Média confiança (70–84%):   5 assuntos (17%) — Requer confirmação DPO
+  ⚠️  Baixa confiança (< 70%) :   4 assuntos (13%) — Requer análise detalhada
+
+  Confiança média geral (30 assuntos): 82.7%
+
+3. CORREÇÕES APLICADAS PELA DPO NESTA SESSÃO
+──────────────────────────────────────────────
+  Total de correções: 15 de 30 assuntos (50%)
+
+  Assuntos corrigidos:
+  • Cadastro de Representante Legal da Pessoa Jurídica           → 221.1
+  • Certidão de Registro e Quitação                              → 232
+  • Diversos                                                     → 002.11
+  • Inclusao de RT Por Pessoa Juridica                           → 241
+  • Inclusao de RT a Pedido da Empresa                           → 241
+  • N                                                            → 002.11
+  • Nomeação/Destituição de Inspetor - Assessoria Institucional/ → 122
+  • Nomeação/Destituição de Representante Municipal do Crea-GO - → 122
+  • Proposta de Transposição Orçamentaria                        → 051.1
+  • Registro de ART com isenção de Taxa por Decisão Judicial p/  → 241
+  • Registro de Consórcio para Licitação                         → 221.1
+  • Registro de Entidade de Classe/Instituição de Ensino para In → 403
+  • Revisão de registro de Entidade de Classe/Instituição de Ens → 403
+  • S                                                            → 002.11
+  • Visto em Registro de Profissional - RU                       → 212.1
+
+  Padrão de erros identificados no motor automático:
+  • Confusão entre 221.1 (registro PJ ativo) e 221.2 (cancelamento PJ)
+  • Confusão entre 241 (emissão ART) e 221.1 (registro PJ)
+  • Confusão entre 212.1 (registro ativo PF) e 212.3 (cancelamento PF)
+  • Nomeações institucionais → 122 (não 212.1)
+  • Assuntos genéricos (N, S, Diversos) → 002.11 TTDD Meio
+
+4. ASSUNTOS COM TTDD ATIVIDADES-MEIO (não Conselhos)
+──────────────────────────────────────────────────────
+  4 assuntos requerem TTDD Meio (não estão no PDF de Conselhos):
+  • Diversos                                                → 002.11
+  • N                                                       → 002.11
+  • Proposta de Transposição Orçamentaria                   → 051.1
+  • S                                                       → 002.11
+
+  ➡️  Para estes assuntos, consultar:
+      cod_classif_tab_temp_ativ_meio_atualizacao_2024.pdf
+
+5. TOP 10 CÓDIGOS TTDD MAIS UTILIZADOS (30 NOVOS)
+───────────────────────────────────────────────────
+   1. 122        —  5 assunto(s) (17%)
+   2. 241        —  4 assunto(s) (13%)
+   3. 203        —  3 assunto(s) (10%)
+   4. 221.1      —  3 assunto(s) (10%)
+   5. 232        —  3 assunto(s) (10%)
+   6. 002.11     —  3 assunto(s) (10%)
+   7. 311        —  2 assunto(s) (7%)
+   8. 403        —  2 assunto(s) (7%)
+   9. 243.1      —  1 assunto(s) (3%)
+  10. 212.3      —  1 assunto(s) (3%)
+
+6. GRUPOS DE ASSUNTOS SIMILARES
+─────────────────────────────────
+  Total de grupos identificados: 11
+  G01: [122] 2 assunto(s) — Unificar como 'Acordo de Cooperação' com subtipo (Técnica/In
+  G02: [203] 3 assunto(s) — Unificar como 'Cadastro/Recadastramento de Instituição de En
+  G03: [221.1] 3 assunto(s) — Unificar como 'Cadastro/Registro de Pessoa Jurídica' com cam
+  G04: [241] 4 assunto(s) — Unificar como 'Inclusão de Responsável Técnico' com campo pa
+  G05: [243.1] 1 assunto(s) — Padronizar como 'Baixa de Responsabilidade Técnica - PJ'
+  G06: [232] 3 assunto(s) — Unificar como 'Expedição de Documento de Identificação Profi
+  G07: [212.1 / 212.3] 2 assunto(s) — Visto RU (registro de profissional estrangeiro) → 212.1. Int
+  G08: [311] 2 assunto(s) — Manter separados. Ambos = 311 (inspeção periódica)
+  G09: [122] 2 assunto(s) — Unificar como 'Nomeação/Destituição de Representante Institu
+  G10: [002.11 / 018.1 / 051.1 / 422] 6 assunto(s) — N, S, Diversos → 002.11 (TTDD Meio). Aditivo Contratual → 01
+  G11: [403] 2 assunto(s) — Unificar como 'Credenciamento de Entidade/IES para Indicação
+
+7. CASOS QUE REQUEREM ATENÇÃO ESPECIAL
+────────────────────────────────────────
+  7.1 ASSUNTOS NA ABA "Revisar_Prioritario":
+      • Aditivo Contratual                                      [122] 35%
+      • Baixa de RT Por Pessoa Juridica                         [243.1] 67.0%
+      • Inclusão de Responsavel Tecnico/Integrante              [241] 50.1%
+      • Patrocínio - Cadastro do Responsável Pelo Projeto       [422] 62%
+
+  7.2 INCONSISTÊNCIAS POTENCIAIS DETECTADAS:
+      • "Inclusão de Responsavel Tecnico/Integrante" (241, 50%): assunto genérico
+        Abrange tanto inclusão de ART de PF quanto PJ. Sugerir desambiguação.
+      • "Aditivo Contratual" (018.1 Meio, 35%): atividade-meio fora do escopo
+        do PDF de Conselhos. Código correto é 018.1 conforme v3.
+      • "Patrocínio - Cadastro do Responsável Pelo Projeto" (422, 62%): natureza
+        ambígua. Pode ser apoio a eventos (422) ou responsabilidade técnica (241).
+
+  7.3 ASSUNTOS GENÉRICOS/INVÁLIDOS IDENTIFICADOS:
+      • "N" e "S": campos provavelmente não preenchidos no MED.
+        AÇÃO: Identificar os processos e reclassificar com assunto adequado.
+      • "Diversos": assunto genérico. AÇÃO: Avaliar caso a caso se mantém
+        002.11 ou se requer assunto mais específico.
+
+8. RECOMENDAÇÕES PARA VALIDAÇÃO
+─────────────────────────────────
+  PRIORIDADE 1 — Iniciar pela aba "Revisar_Prioritario" (4 registros):
+    Estes têm confiança < 70% e requerem análise manual mais cuidadosa.
+
+  PRIORIDADE 2 — Validar aba "Validar" (5 registros):
+    Confiança 70–84%. Verificar especialmente:
+    • "Cadastro de Pessoa Juridica" (221.1, 72%): confirmar se é novo cadastro
+      ou alteração de cadastro existente.
+    • "Vistoria Cautelar" (311, 80%): confirmar se originou de denúncia (→312)
+      ou inspeção rotineira (→311).
+
+  PRIORIDADE 3 — Revisar aba "Alta_Confianca" para assuntos corrigidos (21):
+    Foco nos 15 assuntos com "CORREÇÃO DPO" registrada.
+
+  PRIORIDADE 4 — Sugestões de padronização de nomenclatura:
+    Verificar aba "Grupos_Similares" — 11 grupos sugeridos para unificação.
+
+9. ARQUIVOS GERADOS
+────────────────────
+  ✓ ttdd_conselhos_estruturado.csv   — 63 códigos TTDD extraídos do PDF
+  ✓ lote_01.csv                      — 25 registros (lote 1)
+  ✓ lote_02.csv                       — 5 registros (lote 2)
+  ✓ mapeamento_final.xlsx ⭐           — Planilha consolidada (6 abas)
+  ✓ relatorio_qualidade.txt           — Este relatório
+  ✓ grupos_similares.csv              — 11 grupos de padronização
+
+================================================================================
+  Mapeamento é ferramenta de apoio. Validar com DPO e CPAD antes de aplicar.
+  TTDD de Conselhos: Arquivo Nacional, Nov/2019 | TTDD Meio: Conarq, Set/2024
+================================================================================
